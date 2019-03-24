@@ -1,0 +1,29 @@
+= Krasina
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-03-24
+// :toc:
+// :toc-title: Contenete/Content
+
+// This file is part of project
+// _Krasina_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201903241445
+
+== Interlingue
+
+=== Pri ti projecte
+
+Scope:: Crear un libre digital in EPUB e altri formates de _Krasina_,
+un rakonta original in Interlingue, scrit de Jan A. Kajš in 1938, quel
+esset ja digitalisat de Bedŕich Plavec secun li textu original e
+convertet de Thomas Schmidt in li formate PDF in 2013.
+
+Autor:: Marcos Cruz, 2019.
+
+Web-loc:: http://ne.alinome.net[ne.alinome.net].

@@ -1,0 +1,16 @@
+= TO-DO of _Krasina_
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-03-24
+
+// This file is part of project
+// _Krasina_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201903241435
+
+
