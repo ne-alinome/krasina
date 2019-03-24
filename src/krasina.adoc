@@ -10,7 +10,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903241615
+// Last modified 201903241619
 
 Printería de J. A. Kajš
 
@@ -306,9 +306,7 @@ have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
 proverbie: `"li tempor es moné"`, tande ili es li max rich popul del
 munde.
 
-== Ondra contraveni un habitu
-
-==  del Slavines
+== Ondra contraveni un habitu del Slavines
 
 Krasina esset un excellent instructora de Ondra. Ella acompaniat le partú e
 narrat le per quo li Slavines ocupa se. In li proxim ocasion Ondra eat a
