@@ -10,7 +10,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903241542
+// Last modified 201903241609
 
 Printería de J. A. Kajš
 
@@ -92,7 +92,6 @@ ha fixat se a libres filosofic e linguistic.
 
 Su duesim amore esset li fusil. Ma ti esset "`su secret amore`". Il ne
 posset
-
 confesser it publicmen, nam il ne havet li jure de chasse ni li passport por
 portar li fusil. Ma forsan to esset li cause que su amore al fusil tam crescet
 que alcunvez il sucumbet in tentation e surtit in nocte al braconage. Pri ti su
@@ -200,7 +199,6 @@ suficent curiosi, ha decidet que ti cose ne urge.
 
 Un grand astonament evocat li horlogette de Ondra. It eat de un manu al
 altri. Chascun volet
-
 palpar ti marvel del munde. Li questionada `"qualmen?"`, `"pro
 quo"` e `"por quo"` ne havet li fine. Li explication esset penibil,
 nam Ondra adver ha comprendet li questiones, ma responder in un foren lingue,
@@ -261,7 +259,6 @@ por ornamentes.
 Li table del Slavines esset simplic. Un apart plante, simil al asparge e
 crescent sur li rive de Ponikva, compleet li carne de uros, ursos, agnes e
 pisces. Li sal esset substituet per cindre. Ma
-
 con li tempore li agnes perdit li fecunditá e poc a poc diminue se talmen
 que ili va desaparir. Li sam aparentie on posse constatar anc pri li uros de
 quel resta solmen un micri quantité.
@@ -364,14 +361,12 @@ va esser tui marita!"`
 `"Certmen, Krasina vole. Ma tu, Toník? Esque tu ne va regretar tui
 decision? Esque tu va acustomar se a nor subterran vive? O esque tu ne va fugir
 quande tu va trovar li via ex li
-
 subterrania e lassar Krasina ci in grive?"`
 
 `"Krasina, mi anim, da me besa!"`
 
 Krasina besa e denove besa Toník por atestar que ella vole esser su marita
 e
-
 Toník reciproca li besas quam pruva que il consenti con li election. Poy
 Toník ha jettat li fusil sur li epol e prendet Krasina ye li manu. Ili retornet
 quam petulant infantes, gaymen cantante.
@@ -419,7 +414,6 @@ chasseros ne audaciat batter it por ne atinger lor chef.
 Tande venit li moment quande Ondra posset monstrar li efect del fusil quel
 til tande esset misapreciat del indigenes. Ondra ha apuntat li arme: Eclatat li
 foy e detonation, li bestie ha rugit e
-
 volet lansar se a Ondra. Menaciosmen gruniente li urso balansat a Ondra. Ma
 tande Ondra tirat denove, e li bestie cadet al terra. Li chasseros con hurrá
 battet li urso.
@@ -521,7 +515,6 @@ in su alocution dit circa lu sequent:
 `"Mi amicos e fratres! Secun li consilie de vor potent e sagi chef
 Valdomir vu ha electet me quam su successor. Yo ne posse promesser vos alquo
 grandios, nam yo es ancor extran inter vos. Yo
-
 ancor ne conosse bon vor vive, vor customes e mores e pro to it es anc
 possibil que in li comense yo quelcvez va peccar contra vor leges. Ma in tal
 casus ples memorar que it ne es fat con intention, ma solmen de inconossentie.
@@ -549,7 +542,7 @@ in li novi tenda.
 == Ondra quam preceptor
 
 Strax li sequent die pos li nuptie Ondra ha anunciat que il va docer li
-letion e scition e ha invitat omni Slavines pertiprender in li aprension. Omni
+letion e scition e ha invitat omni Slavines partiprender in li aprension. Omni
 ha venit essente curiosi pri ti novitá. Ondra ha explicat quel importantie have
 li scritura por li homes in supra u on printa diversi libres e jurnales, u es
 exchangeat lettres inter homes tre distant li un del altri. Por li Slavines to
@@ -562,7 +555,7 @@ Ondra.
 Ondra ha prendet un carbon e scrit sur un lapid: `"Valdomir"` e poy
 descomposit li parol in singul litteres e denove juntet li sylabes til que omni
 ha capit li miracul. Poy il ha invitat Valdomir a scrir self sui nomine. Ti
-procedura esset panibil, ma tamen li old chef ha successat con grand joy. Poy
+procedura esset penibil, ma tamen li old chef ha successat con grand joy. Poy
 Ondra scrit li nomines comensant per V, A, L, D etc. Chascun esset fieri que in
 li unesim lecion il ha aprendet scrir su nomine.
 
@@ -628,7 +621,6 @@ bon quel es in ili."`
 
 `"To es acceptabil explication. E nu, esque tu posse dir me, quo doce vor
 religion pri li
-
 matrimonie?"`
 
 `"Tui question tre joya me. Nor religion doce que li maritage es li
@@ -846,7 +838,6 @@ grottes apartene al max grand marveles del natura in li munde.
 
 Li abyss es in realitá un anteyan colossal grotte (profun 138.4 m, larg 76 e
 long 175 m), de quel li
-
 plafon ha ruit e talmen ha format se li gigantic abyss. Ante li labores
 mentionat on posset atinger li fude de Macocha solmen per un ferrin scale, ma
 nu on posse atinger it comodmen per coridores del grottes de Punkva.
