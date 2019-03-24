@@ -1,6 +1,17 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
 
+// This file is part of project
+// _Krasina_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201903241542
+
 Printería de J. A. Kajš
 
 Brno 1938.
@@ -42,13 +53,13 @@ retro.
 Quo ha accidet le? Ti voce, benque plen de tendresse e compassion, ne
 apartene a su matre. Il leva li cap por vider plu bon qui inclina se super le.
 Il vide un particulari inconosset visage de quel li trates indica que it
-apartene a un femina. Ma, qui es ti femina e qualmen el a apari ci? Il pena
+apartene a un femina. Ma, qui es ti femina e qualmen ella apari ci? Il pena
 soluer ti problema, ma li cerebre ne vole servir le, li cap es quam vacui e
 obtusi...
 
-E li inconosset femina fortia le jacer tranquilmen; el a palpat su contuset
+E li inconosset femina fortia le jacer tranquilmen; ella palpat su contuset
 membres, sur alcun locos su fingres halta e Ondra senti un brulant dolore. Poy
-el a invelopa le in un pelisse e da le trincar alqual acerbi decocte. Ondra
+ella invelopa le in un pelisse e da le trincar alqual acerbi decocte. Ondra
 trinca e strax indormi quam un infant con li sentiment que super le vigila un
 potent e afabil ente.
 
@@ -58,8 +69,8 @@ desaparit, tam que il ja posset reflecter.
 
 U il es? Esque li mysteriosi ente ne esset un chimere? O esque it esset
 solmen un strangi somnie? Ma no, il ya es invelopat in un pelisse quel ne
-apartene le e circum se il vide solmen roccas e super se petrin vulte con mil
-es de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
+apartene le e circum se il vide solmen roccas e super se petrin vulte con milles
+de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
 su braconal aventura e su cade...
 
 Yes, it es talmen, li erra es excludet. It trova se in li subterrania del
@@ -88,7 +99,7 @@ que alcunvez il sucumbet in tentation e surtit in nocte al braconage. Pri ti su
 surtidas savet solmen su matre quel chascunvez audit li craca del porta, quande
 il abandonat li domette.
 
-"`Ea necú, Toník,`" el a avertit le unvez quande il prendet li clinc,
+"`Ea necú, Toník,`" ella avertit le unvez quande il prendet li clinc,
 "`yo have alqual presentiment que alquo mal va incontrar te. Resta hem,
 almen hodíe.`"
 
@@ -107,14 +118,14 @@ in li sam tempore il audit un menaciant "`Halt`"!
 
  Haltar? Lassar se capter? No, to ne esset in intentiones de Ondra! Il ha
 lassat li capreol jacer e per quelc saltes il ha atinget li foreste, u inter li
-arbores il esset plu secur contra li bal es. Il precipita se adavan, ma detra
+arbores il esset plu secur contra li balles. Il precipita se adavan, ma detra
 se il audi li menaciant "`Halt! o yo va tirar!`"
 
  Ondra neglige li avertiment e curre ad avan. Su persecutor trumpeta e ne
 lontan responde su compan. Per diabol! Ondra senti li dangere. Il save que li
 braconage es severmen punit. Versimilmen it es ancor un rest del servage, del
 tempore quande li chasse esset reservat por li nobilité, Si on va capter le, il
-ne va escapar li prison. Quel honte il vel causar a su old matre! Il deve
+ne va escapar li prison. Quel honte il vell causar a su old matre! Il deve
 escapar, pro to ad avan! Omni su forties il mette in li muscules de su gambes e
 curre quasi pariante con li vente. Ma anc persecutores ne reposa e ili expense
 omni forties por capter le. Talmen li chasse durat presc un demí-hor quande
@@ -147,21 +158,21 @@ interessant es li studies lingual.
 Li cant ha cessat e avan le stat su salvatora. Quande su ocules acustomat se
 al particulari luce, quel semblat penetrar in li subterrania tra diversi
 fissuras, il discernet li conturas del feminin statura e poc e poc il posset
-vider passabilmen bon. El a ha esset vestit per ursin pelisse e sur li pedes
+vider passabilmen bon. Ella ha esset vestit per ursin pelisse e sur li pedes
 havet sandales ornat per fibules de ursin dentes. Anc su vestiment ne indiget
 ornamentes e to esset por Ondra un atest pri li artistic facultá del juvena. Ti
-constatation pro cause inexplicabil, ha injoyat le e quande el a prendet su
-manu por auxiliar le levar se, percurret le un electric scintil e e plenat le
+constatation pro cause inexplicabil, ha injoyat le e quande ella prendet su
+manu por auxiliar le levar se, percurret le un electric scintille e plenat le
 per un dulci sentiment, til nu inconosset.
 
 Li juvena ductet le tra zigzagant coridores quel strax astrettat se talmen
 que on posset solmen con pena passar tra ili, strax ili elargat se in magnific
-temples ornat de mil iones de annus per fabulosi figuras de stalactites. Ti
+temples ornat de milliones de annus per fabulosi figuras de stalactites. Ti
 spectacul tentat Ondra a haltar e revar pri li marveles e miracules del natura.
-Ma li quida fortiat le avansar, assertente le que existe mem plu bel temples in
+Ma li quida fortiat le avansar, assertente le que existe mem plu bell temples in
 su patria.
 
-Li juvena babil a, questiona e talmen Ondra aprende que el a es Krasina,
+Li juvena babilla, questiona e talmen Ondra aprende que ella es Krasina,
 filia del chef del Slavines queles vive sur li rive de un fluvie.
 
 Ondra ja ha perceptet li murmura del fluvie e sones de canzon in li lingue
@@ -178,10 +189,10 @@ Ondra sentit qualmen omni ocules perfora le por decovrir su intentiones.
 
 `"Quo significa ferral fonderia?"`
 
-`"Quo es forne e quo li ferrin protometal ?"`
+`"Quo es forne e quo li ferrin protometall?"`
 
-Ondra ha conceptet que ti gente have nul idé pri li ferrin cultura; pro to
-il efortiat explicar les quo es li protometal e a quo servi li ferre e stal.
+Ondra ha conceptet que ti gente have null idé pri li ferrin cultura; pro to
+il efortiat explicar les quo es li protometall e a quo servi li ferre e stal.
 Quande il ha volet demonstrar, quo posse far un fusil, il ha rememorat que it
 es alcú incombrat e que il deve serchar it. Krasina, quel esset constantmen ye
 su flanc, ha ofertat se acompaniar le in li serchada, ma li chef, benque self
@@ -201,21 +212,21 @@ con pena. Il va besonar ancor un poc de exercicie.
 
 Quande li unesim ataca de questiones un poc ha cessat, Ondra posset un poc
 circumspecter. Li camp del Slavines esset sur li rive de un subterran fluvie.
-Li tendas esset fat de pel es de urses e uros. Sur un liber loc flammeat un foy
+Li tendas esset fat de pelles de urses e uros. Sur un liber loc flammeat un foy
 de ligne quel esset aportat del fluvie e de osses antediluvial quel trovat se
 in abundantie in li grottes.
 
 Krasina ne posset detraer su ocules de Ondra. Durant li festine, arangeat al
-honore de Ondra, el a presentat le li maxim grass boccades, quo il quittat per
+honore de Ondra, ella presentat le li maxim grass boccades, quo il quittat per
 grat regardes.
 
-Krasina esset de mediocri altore con musculos brasses e bel -format gambes.
-In li visage de livid colore, sub larg fronte, bril iat du verdatri ocules
+Krasina esset de mediocri altore con musculos brasses e bell-format gambes.
+In li visage de livid colore, sub larg fronte, brilliat du verdatri ocules
 queles, astonantmen, regardat suavi e calidmen.
 
 Ondra ha esset surprisat per li aspect de ti grottal gente. Il imaginat se
 li troglodytes con plat fronte e salient guancial osses, durantque il vide ci
-li formes de cranies pri queles nul cultural popul vell dever hontar. Li chef
+li formes de cranies pri queles null cultural popul vell dever hontar. Li chef
 ha finit li festine per un prega in quel il mersiat li Patre por lu bon e ver
 figurat per nutrimentes quel li Slavines recive in suficent quantitá. Ondra ha
 esset denove surprisat: Quo have li manjage e trincage comun con lu bon e ver?
@@ -231,10 +242,10 @@ del grotte ha ruit e barrat li exeada. Li familie esset inprisonat. Felicimen
 it esset in un principal coridore e on posset avansar.
 
 Li Slavines ha trovat un apt loc por resider sur li rive de fluvie quel ili
-nominat Ponikva. Ti nomine nul men surprisat Ondra, nam il savet que li
+nominat Ponikva. Ti nomine nullmen surprisat Ondra, nam il savet que li
 novi-formation Punkva di necos. Ponikva significa `"submergeant aqua"`.
 It proveni del antiqui-slavic lingue e li radica `"nikat"` conservat se
-ancor in quelc paroles tchec. Noi vel nul men cuidar pri que li Slavines nomina
+ancor in quelc paroles tchec. Noi vell nullmen cuidar pri que li Slavines nomina
 Punkva altrimen, ma li linguistic marotte de Ondra obtenet un satisfation.
 
 Li fluvie furnit les li aqua e aportat ligne por mantener li foy. Lor ocules
@@ -244,7 +255,7 @@ secun quel format se lor tot vive.
 Li agnes pastet se sur scarsi herbage sur li rive del fluvie. Por lor
 securitá stat li canes quel avisat li dangere menaciant al agnes. Ti dangere
 representat li grottal ursos quel esset in li subterrania tre mult. Ti bestie
-furnit al Slavines li carne, li pel isse por vestimentes, li dentes e griffes
+furnit al Slavines li carne, li pellisse por vestimentes, li dentes e griffes
 por ornamentes.
 
 Li table del Slavines esset simplic. Un apart plante, simil al asparge e
@@ -259,7 +270,7 @@ Li letura e scritura es che li slavines inconosset, almen secun nor usa.
 Solmen in li pictura ili es versat, quam atestat diversi dessines per carbon,
 sur li roccas e gravuras sur ossin e petrin utensiles e vases.
 
-Mil -annual tradition, anxiosmen mantenet, di que lor ancestres esset pastores e cultivatores de vegetales de quel on fa pane. Ili self nequande videt li pane, ma ili crede que li pane es li optim nutriment del hom.
+Mill-annual tradition, anxiosmen mantenet, di que lor ancestres esset pastores e cultivatores de vegetales de quel on fa pane. Ili self nequande videt li pane, ma ili crede que li pane es li optim nutriment del hom.
 
 Ili have anc lor propri religion. Ili crede al Patre sin li comense e fine -
 sin li nascentie e morte - quel mantene li munde per li foy e aqua, per li
@@ -267,7 +278,7 @@ amore juntet con li sagesse e veritá. Omni quo circuma les have un symbolic
 sense. Li aqua significa li veritá quel purifica, renova e fa trincar al anim
 homan. Li calore significa li amore quel intertene li vive fysic e spiritual.
 Li luce ilumina li intelectu, da li sagesse. Li petre significa li veritá del
-crede. Li agnel o significa li innocentie, li mild animales significa li bon e
+crede. Li agnello significa li innocentie, li mild animales significa li bon e
 li feroci besties li mal inclinationes del hom. Ili crede in li vive eterni in
 quel on intra per li morte, it es per li deposition del fysic corpore. Li morte
 es li porta per quel on passa del fysic in li spiritual munde, del visibil in
@@ -291,7 +302,7 @@ inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
 pro to ne manca les ni heroes.
 
 On posse presc dir que li Slavines vive exter li tempore. Ili ne es avigilat
-per aurora o per canta de gal inos, ni per fabrical sirenes. Li tempore indica
+per aurora o per canta de gallinos, ni per fabrical sirenes. Li tempore indica
 les solmen li marea de Ponikva. Li hores e minutes ne have por il alcun
 importantie, nam ili ne besona timer pri tard ariva in li buró o ovreria. Ili
 have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
@@ -302,21 +313,21 @@ munde.
 
 ==  del Slavines
 
-Krasina esset un excel ent instructora de Ondra. El a acompaniat le partú e
+Krasina esset un excellent instructora de Ondra. Ella acompaniat le partú e
 narrat le per quo li Slavines ocupa se. In li proxim ocasion Ondra eat a
 serchar li perdit fusil. Si il va trovar it, il va partiprender in chasse del
 grottal mannes e va demonstrar les quo posse far li fusil. E li fortune favorat
 le. Li fusil-tube salit ex li sand apu li loc u Krasina ha trovat le. Plenat de
-joy il inbrassat li yuna e ante que el a posset reconscier, il ha presset sur
-su labies un long besa. Li labies de el a aspirat se al suis, ma strax poy el a
+joy il inbrassat li yuna e ante que ella posset reconscier, il ha presset sur
+su labies un long besa. Li labies de ella aspirat se al suis, ma strax poy ella
 ha liberat se de su inbrassament e comensat amarimen plorar.
 
 Ondra ne posset comprender quo ha accidet la. Il efortiat consolar la, ma
-quande il provat inbrassar la denove, el a forcurret con singlutada. Ondra
-devet usar omni eloquentie por quietar la tant que el a posset explicar le quo
-ha accidet tam horribil. Per su act Ondra tam desdignat la que el a ne posse
-con bon conscientie revenir a su tribe. Solmen li puel a have li jure besar li
-mann quel el a vole maritar. Tal es li habitu del Slavines.
+quande il provat inbrassar la denove, ella forcurret con singlutada. Ondra
+devet usar omni eloquentie por quietar la tant que ella posset explicar le quo
+ha accidet tam horribil. Per su act Ondra tam desdignat la que ella ne posse
+con bon conscientie revenir a su tribe. Solmen li puella have li jure besar li
+mann quel ella vole maritar. Tal es li habitu del Slavines.
 
 `"Esque vermen ne existe escape de ti mal situation?"` questionat li
 contrit Ondra.
@@ -328,7 +339,7 @@ contrit Ondra.
 `"Inter nos veni nequi ignorant nor mores."`
 
 `"To es vermen fatal... Ma, atende, Krasina. Esque tu ne ha dit que
-solmen li puel a posse besar li mann quel el a ha selectet?"`
+solmen li puella posse besar li mann quel ella ha selectet?"`
 
 `"Yes, to yo ha dit. It es talmen e in to jace nor malfortun,"`
 respondet Krasina con resignation.
@@ -336,13 +347,13 @@ respondet Krasina con resignation.
 `"Esque tu ne comprende, mi cordiette, que in to es nor
 salvation?"`
 
-`"Qualmen it vel esser possibil?"` Krasina fixat a Ondra su ocules in
+`"Qualmen it vell esser possibil?"` Krasina fixat a Ondra su ocules in
 quel manifestat se li surpris e dubita.
 
 `"To es ya tre simplic cose... Tu ha ya besat me li unesim e poy yo ha
 besat te. Esque tu vermen ha obliviat to?"`
 
-Krasina esset stupefat per surpris, ma bentost el a reconsciet e jettat se
+Krasina esset stupefat per surpris, ma bentost ella reconsciet e jettat se
 al pectore de Ondra e besat le, besat e ridet quam li turtur.
 
 `"Ho, tu es filú, Toník! Filú, filú, filú! Ma tu va esser punit. Krasina
@@ -358,15 +369,15 @@ subterrania e lassar Krasina ci in grive?"`
 
 `"Krasina, mi anim, da me besa!"`
 
-Krasina besa e denove besa Toník por atestar que el a vole esser su marita
+Krasina besa e denove besa Toník por atestar que ella vole esser su marita
 e
 
 Toník reciproca li besas quam pruva que il consenti con li election. Poy
 Toník ha jettat li fusil sur li epol e prendet Krasina ye li manu. Ili retornet
 quam petulant infantes, gaymen cantante.
 
-Quande ili ha arivat al camp, Krasina levat li manu quam signe que el a have
-alquo por dir al tribe. Poy el a stantat se sur li puntas del pedes e trivez
+Quande ili ha arivat al camp, Krasina levat li manu quam signe que ella have
+alquo por dir al tribe. Poy ella stantat se sur li puntas del pedes e trivez
 besat Ondra quo il ha reciprocat. Li yunos quel in van solicitat li favore de
 Krasina, ha jettat li fulmines del ocules, ma submisset se al ancian more.
 Krasina ha selectet su marito.
@@ -418,10 +429,10 @@ tribe ne posset desirar plu bon chef quam va esser ti quel Krasina selectet
 quam marito. E Krasina, fieri ye su Toník, intonat li heroic canzon quel on
 cantat solmen quande alcun mann fat se celebri per un heroic acte.
 
-Interim li chasseros ha apertet li bestie per lor primitiv culteles, depel
-at e dissectet it e retornat al camp. Li feminas esset astonat per tam celebri
+Interim li chasseros ha apertet li bestie per lor primitiv culteles, depellat
+e dissectet it e retornat al camp. Li feminas esset astonat per tam celebri
 retorn del mannes, ma quande ili aprendet qui ha contribuet a ti bon success,
-unes comensat apretar li pel e por li tenda del nov pare, durantque li altres
+unes comensat apretar li pelle por li tenda del nov pare, durantque li altres
 preparat manjages por li nuptial festine.
 
 == Li nuptial ceremonie
@@ -457,12 +468,12 @@ e anc ti ci yun pare.
 --
 
 Li sponses declinat li capes, li tambures sonat. li prestro ha cupat un
-bucle de capil es del sponses, plectet it e jettat in li foy. Pos to on
+bucle de capilles del sponses, plectet it e jettat in li foy. Pos to on
 cantat:
 
 [verse]
 --
-Lor capil es, del fortie li symbole,
+Lor capilles, del fortie li symbole,
 ci in foy nu ha unit se.
 --
 
@@ -474,11 +485,11 @@ Pos li finition del ceremonies omni sedentat se al nuptial festine.
 
 Festine! Li letor imagina se grand tables covrit per blanc toales, sur li
 tables buquetes, circum li tables stules, current servitores con platiles,
-servietes, bril iant servises e li ceteri pompe, indispensabil che li
-potentates. Quam stupefat il vel esser, si il vel sedentar se al festine che li
+servietes, brilliant servises e li ceteri pompe, indispensabil che li
+potentates. Quam stupefat il vell esser, si il vell sedentar se al festine che li
 chef del Slavines!
 
-Li chef sedet sur ursin pel e e li ceteres sur li suol. Li cocinera hachat
+Li chef sedet sur ursin pelle e li ceteres sur li suol. Li cocinera hachat
 por chascun un pezze de carne e dat it in li manu. Li furca esset viceat per
 fingres e li cultel per dentes.
 
@@ -496,7 +507,7 @@ relation al vive quam li modern musica del popules con tot altri conditiones
 del vive.
 
 Ho, quam il regretat que il ne manua alcun musical instrument! Ma - esque li
-grottal popul vel comprender su musica? Esque it vel comprender su hymne pri li
+grottal popul vell comprender su musica? Esque it vell comprender su hymne pri li
 sole, pri li flores, susurrada del vente e cante de avies?
 
 Certmen it ne vell comprender. Ma - esque li circumitá ne va lansar Ondra in
@@ -544,7 +555,7 @@ li scritura por li homes in supra u on printa diversi libres e jurnales, u es
 exchangeat lettres inter homes tre distant li un del altri. Por li Slavines to
 posse haver solmen limitat importantie, pro que ili ne have li paper ni li
 possibilitá printar libres. Ili tamen posse comodmen lassar informationes in li
-camp, si ili vel forear, ili posse scrir lor comunicationes sur li roccas.
+camp, si ili vell forear, ili posse scrir lor comunicationes sur li roccas.
 Malgré ti litt usabilitá del scrition, omni Slavines ha aprobat li decision de
 Ondra.
 
@@ -556,7 +567,7 @@ Ondra scrit li nomines comensant per V, A, L, D etc. Chascun esset fieri que in
 li unesim lecion il ha aprendet scrir su nomine.
 
 Secun ti metode Ondra continuat chascun die quelc hores. Bentost il videt
-que inter li max diligent eleves excel e su Krasina. Li joy del eleves crescet
+que inter li max diligent eleves excelle su Krasina. Li joy del eleves crescet
 chascun die e pos quelc leciones ili posset leer li canzones quel Ondra scrit e
 cantat.
 
@@ -574,13 +585,13 @@ Li sequent die ili ha plenat un valise per proviant, quel Ondra ha fixat a
 su dorse e prendente li fusil ili startat.
 
 In li comense ili eat tra coridores conosset, ma poy ili eat tra fores, tra
-quel ili apen posset perpresser se. Ili eat ad supra e ad infra u ante mil
-enies penetrat li aqua. Ili arivat in grottes con plafones covrit per magnific
+quel ili apen posset perpresser se. Ili eat ad supra e ad infra u ante
+millenies penetrat li aqua. Ili arivat in grottes con plafones covrit per magnific
 stalactites. Maniloc li stalagmites ha format un forest. In pluri grottes li
 paretes splendet per sorciatri cascades de stalactites. Ondra haltat perplex
 avan li ovre del natura.
 
-Quant mil enies li natura laborat por far ti magnificentie?
+Quant millenies li natura laborat por far ti magnificentie?
 
 In altri grottes ili trovat stalactites formant fantastic figuras de nanes,
 cortnes, vases, calices e divers objectes por li homan fantasie. Un altri
@@ -610,7 +621,7 @@ me."`
 
 `"Esque tu ama tui matre, Toník?"`
 
-`"Yes; forsan pro que el a es tam bon."`
+`"Yes; forsan pro que ella es tam bon."`
 
 `"It es rect. Si noi ama lu bon, noi ama max mult li bon homes. To pro lu
 bon quel es in ili."`
@@ -629,7 +640,7 @@ li ver matrimonie es inpossibil sammen quam li fysic vie es inpossibil sin li
 calore e luce.
 
 "`Yo deve confesser que yo nequande serchat un tal profundore in li
-religion. Tam minu yo vel expectar it che un popul separat durant mil ennies de
+religion. Tam minu yo vell expectar it che un popul separat durant millennies de
 nor cultura.
 
 `"Tu deve raconar me pri vor religion. Precipue in quo it difere de
@@ -644,7 +655,7 @@ Che nos existe quelc principal religiones e chascun have quelc sectes."`
 `"Noi crede, ma chascun eclesie explica Le altrimen. Ma pri to yo va
 parlar altrivez. In ti ci media, precipue in ti ci miracules del natura, plu
 bon incade tui religion. Damage, que yo ancor ne ha penetrat in vor symbolica
-por posser leer in tri ci temple, quo ha scrit li natura durant mil ennies e
+por posser leer in tri ci temple, quo ha scrit li natura durant millennies e
 sci ancor hodie."`
 
 `"Tu deve petir mi patre, il posse explicar te omnicos. Il es versat anc
@@ -652,7 +663,7 @@ in li coses composit quam es ti ci lapides. Me atraet til nu precipue li coses
 simplic."`
 
 `"Yo ne posse prender to in mal. Che nos apen li decesim yuna in tui etá
-vel posser presentar tal spiritual coses talmen quam tu es capabil far
+vell posser presentar tal spiritual coses talmen quam tu es capabil far
 it."`
 
 `"Esque tu ha tam bon conosset vor yunas?"`
@@ -668,15 +679,15 @@ popul. Yo tre desira ducter it al luce por que ili mey joyar pri omni marveles
 del natura ta supra. Forsan noi va successar trovar un via quel va ducter nos
 ex li subterrania."`
 
-`"It es bel , Toník, que tu pensa a nos. Ma, esque noi ne vel esser ta
+`"It es bell, Toník, que tu pensa a nos. Ma, esque noi ne vell esser ta
 supra quam extranes? Esque noi va posser viver per nor propri vive? sque ta
 supra noi ne va esser in plu grand labyrint quam ci?"`
 
 `"Tui inquietation ne es sin base. Vor simpli vive certmen have su
-avantages pri quel vu apen save. Ma malgré to yo vel preferer esser con te in
-li regne del sole e flores. In liber hores yo vel promenar con te in forestes u
-noi vel escutar li susurrada del vente, cante del avies e burdonament del apes.
-Noi vel colier bel flores e far de ili corones por te. Noi vel luder in li
+avantages pri quel vu apen save. Ma malgré to yo vell preferer esser con te in
+li regne del sole e flores. In liber hores yo vell promenar con te in forestes u
+noi vell escutar li susurrada del vente, cante del avies e burdonament del apes.
+Noi vell colier bell flores e far de ili corones por te. Noi vell luder in li
 brillie del sole quam petulant infantes.
 
 "`Cessa ja, Toník! Tant nov e inconosset coses yo ne posse capir in un
@@ -686,7 +697,7 @@ abandonar mi patria quel yo ama in sam gradu quam tu ama li tui.`"
 
 "`Bon. Ma tu oblivia que vor patria es ta supra. Ci vu es solmen
 prisonat. Mi patria es tui patria, de tot tui popul quel habitat Moravia ante
-mil ennies.`"
+millennies.`"
 
 "`Forsan tu es rect. Ma tu deve parlar pri to con mi patre ca il va voler
 abandonar li prison, qualmen tu nomina nor patria.`"
@@ -702,7 +713,7 @@ explorativ via.`"
 "`Aqua! Aqua! Aqua!`"
 
 Ti clamation avigilat Ondra de profund dormida pos li penosi e van vagada in
-li coridores. Il ha demettet li pel issin covritura de se e ha excurret del
+li coridores. Il ha demettet li pellissin covritura de se e ha excurret del
 tenda por aprender quo ha accidet. In li camp eset un grand tumultu. Li feminas
 curret ci e ta, li infantes criat e li mannes colectet li necessi objectes. It
 aproxima se li aqua quel probabilmen va inundar li inferiori tuneles e
@@ -722,7 +733,7 @@ rol. Pro to il ha ordonat preparar se al fugida.
 Hante prendet li utensiles e armes, ili departet.
 
 Avan li convoy curret li canes, detra les Valdomir con Ondra e Krasina. Li
-old chef havet circum li tal ia ligat un long strap, ye quel tenet se li
+old chef havet circum li tallia ligat un long strap, ye quel tenet se li
 fugientes.
 
 Li aqua montat e montat. Li Slavines hastat ad avan. Ma li coridor subitmen
@@ -782,12 +793,12 @@ e de ti seman tu esset six dies in li hospital.`"
 
 Ondra infidentmen regarda li matre, torna li cap e di:
 
-"`Nul somnie, mamá. Yo va adducter vos mi Krasina.`"
+"`Null somnie, mamá. Yo va adducter vos mi Krasina.`"
 
-"`Yo vel desirar te it, mi car boy, ma specta in li calendare. Tu ha
+"`Yo vell desirar te it, mi car boy, ma specta in li calendare. Tu ha
 exeat mercurdí li ninesim august e hodie noi have li decisettesim.`"
 
-Ti explication vel convicter chascun, ma Toník ne ha esset convictet. Il eat
+Ti explication vell convicter chascun, ma Toník ne ha esset convictet. Il eat
 al cancelaria del usine, u on ja havet raport pri su accidente, e pro to on
 acceptat su excusa e permisset le venir al labor lunedí. De ta il hastat al
 grotte por trovar Dr Absolon e mersiar le pro li salvation.
@@ -799,8 +810,8 @@ exiger ancor mult labor.`"
 
 Ondra narrat a Dr Absolon su aventura in li subterrania e petit Dr Absolon
 prender le ad infra pro que il deve trovar su Krasina. Dr Absolon escutat con
-grand interesse, ma poy il tornat li cap e dit: "`No, amico, tam long nul
-popul vel posser viver sin li sole. It esset solmen un somnie. Forsan un bel
+grand interesse, ma poy il tornat li cap e dit: "`No, amico, tam long null
+popul vell posser viver sin li sole. It esset solmen un somnie. Forsan un bell
 somnie, ma tamen solmen un somnie.`"
 
 "`Ma qualmen on posse somniar pri tam logic religion del Slavine? Li
@@ -848,6 +859,6 @@ Ostrov on posse parlar solmen con superlatives.
 Noi ha dit que li explorationes de Moravian Carst es ja presc finit, ma
 recentmen on ha decovrit un nov subterran labyrint proxim Boskovice.
 
-Omni ti ovres del natura merite esser videt. Li marveles es plu bel quam
-posset racontar li simplic ovrero Ondra. Ili es plu bel , plu splendid, plu
+Omni ti ovres del natura merite esser videt. Li marveles es plu bell quam
+posset racontar li simplic ovrero Ondra. Ili es plu bell, plu splendid, plu
 magnific quam on posse imaginar.
