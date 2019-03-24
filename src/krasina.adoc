@@ -10,7 +10,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903241612
+// Last modified 201903241615
 
 Printería de J. A. Kajš
 
@@ -269,8 +269,8 @@ sur li roccas e gravuras sur ossin e petrin utensiles e vases.
 
 Mill-annual tradition, anxiosmen mantenet, di que lor ancestres esset pastores e cultivatores de vegetales de quel on fa pane. Ili self nequande videt li pane, ma ili crede que li pane es li optim nutriment del hom.
 
-Ili have anc lor propri religion. Ili crede al Patre sin li comense e fine -
-sin li nascentie e morte - quel mantene li munde per li foy e aqua, per li
+Ili have anc lor propri religion. Ili crede al Patre sin li comense e fine --
+sin li nascentie e morte -- quel mantene li munde per li foy e aqua, per li
 amore juntet con li sagesse e veritá. Omni quo circuma les have un symbolic
 sense. Li aqua significa li veritá quel purifica, renova e fa trincar al anim
 homan. Li calore significa li amore quel intertene li vive fysic e spiritual.
@@ -281,14 +281,14 @@ quel on intra per li morte, it es per li deposition del fysic corpore. Li morte
 es li porta per quel on passa del fysic in li spiritual munde, del visibil in
 li invisibil munde. Li dormida da nos alqual imagination pri ti transition. Li
 nucleo del religion es li amore. Deo es li sagesse e li amore, pro to haver li
-ver religion significa amar lu bon e lu ver. Amar li fonte del amore - li Patre
+ver religion significa amar lu bon e lu ver. Amar li fonte del amore -- li Patre
 e con il amar omni su infantes.
 
 Ti simplic religion da les tant materie por meditation que lor rason es tre
 developat e lor cordie nequande desira dominar, nam li amore ducte a servir li
 proximo.
 
-Li etá del Slavines es relativmen curt - admaxim quinant annus. Lor numere
+Li etá del Slavines es relativmen curt -- admaxim quinant annus. Lor numere
 ne augmenta se, nam alcun families es sin infantes. Li eterni Patre talmen
 cuida por que lor numere ne superpassa li condition del existentie.
 
@@ -500,11 +500,11 @@ Slavines solmen curt tempore, ma malgré to il sentit que it have plu intim
 relation al vive quam li modern musica del popules con tot altri conditiones
 del vive.
 
-Ho, quam il regretat que il ne manua alcun musical instrument! Ma - esque li
+Ho, quam il regretat que il ne manua alcun musical instrument! Ma -- esque li
 grottal popul vell comprender su musica? Esque it vell comprender su hymne pri li
 sole, pri li flores, susurrada del vente e cante de avies?
 
-Certmen it ne vell comprender. Ma - esque li circumitá ne va lansar Ondra in
+Certmen it ne vell comprender. Ma -- esque li circumitá ne va lansar Ondra in
 li primitivisme? Esque il ne percepte ja nu quam passu pos passu il fusiona con
 su nov popul? Yes, il senti que il ama su popul ne solmen quam li chef, ma quam
 un de it. Il va dar se li pena por esser bon consiliator de su popul. Adver il
@@ -529,7 +529,7 @@ entusiasme. Li tamburada ne volet cessar e Ondra esset circumat de mannes
 volent far con le li sanguin fratrinitá.
 
 Poy sequet danses, in plupart danses figural, danses de quel ha originat
-mani populari danses tchec - almen Ondra pensat to.
+mani populari danses tchec -- almen Ondra pensat to.
 
 Por contribuer al general gaudie, il ha cantat quelc populari canzones
 tchec, de quel `"U es mi hem?"`, `"Moravia"` e `"Flue aqua
@@ -590,7 +590,7 @@ In altri grottes ili trovat stalactites formant fantastic figuras de nanes,
 cortnes, vases, calices e divers objectes por li homan fantasie. Un altri
 grotte presentat li image de destruction. Ta li plafon con pesant stalactites
 ha ruit e nu omnicos jace sur li terra in un caos. Ma vice li ruit stalactites
-forma se novi - quam un image del circulant vive...
+forma se novi -- quam un image del circulant vive...
 
 Ondra ha resoluet reposar ci un poc.
 
