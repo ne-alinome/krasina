@@ -1,8 +1,15 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.2+20190324
+:revnumber: 0.1.0-dev.3+20190329
 :version-label: Version de edition digital:
 :lang: ie
+:docinfo: private
+ifdef::backend-pdf[]
+:doctype: book
+:toc: macro
+:toclevels: 3
+:toc-title: Contenete
+endif::[]
 
 // This file is part of project
 // _Krasina_
@@ -13,12 +20,48 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903241632
+// Last modified 201903291940
 
-Printería de J. A. Kajš
+:dot: .
 
-Brno 1938.
+// Pri ti libre {{{1
+== Pri ti libre
 
+Titul:: Krasina
+
+Subtitul:: Original raconta ex li subterrania de Moravian Carst
+
+Autor:: {author}
+
+Edition original:: Printería de J. A. Kajš, Brno, 1938.
+
+Digitalisation:: Bedŕich Plavec, secun li textu original.
+
+Conversion a PDF:: Thomas Schimidt, 2013. Obtenibil in
+http://ie-munde.com[ie-munde.com].
+
+Conversion a Asciidoctor, revision, e edition quam libre digital:: Marcos Cruz,
+2019{dot} Obtenibil in http://ne.alinome.net[ne.alinome.net] ye formates EPUB,
+PDF e altris.
+
+Libre digital fat solmen per líber programas:: 
+http://asciidoctor.org[Asciidoctor],
+https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
+dbtoepub,
+http://debian.org[Debian],
+http://git-scm.com/[Git],
+https://www.gnu.org/software/make/[GNU make],
+http://pandoc.org[pandoc],
+http://http://jonas.nitro.dk/tig[Tig],
+http://vim.org[Vim],
+http://xmlsoft.org/XSLT/[xsltproc]...
+
+Version de ti edition:: {revnumber}.
+
+Contributiones:: Corectiones e suggestiones por sequent versiones es
+benevenit che http://ne.alinome.net[ne.alinome.net].
+
+// Anteparol {{{1
 == Anteparol
 
 Til nu noi incontra ancor mult homes ne credent que on posse usar un lingue
@@ -41,9 +84,7 @@ que ili mey crear ovre digni del sublim idé del interlingue.
 
 Jan A. Kajš
 
-NOTE: Li textu di ti-ci edition esset digitalisat de Bedŕich Plavec secun li
-textu original e convertet de Thomas Schmidt in li formate PDF.
-
+// Li avigilation de Ondra {{{1
 == Li avigilation de Ondra
 
 Ondra esset avigilat per du fosforescent ocules fixat a su visage. Con pena
@@ -79,6 +120,7 @@ su braconal aventura e su cade...
 Yes, it es talmen, li erra es excludet. It trova se in li subterrania del
 Carste...
 
+// Un braconal aventura de Ondra {{{1
 == Un braconal aventura de Ondra
 
 Toník Ondra havet li fama de un originalo. Il evitat li societé e su liber
@@ -149,6 +191,7 @@ li strett proximitá. Subitmen Ondra senti que li suol move se e il glissa a
 bass; in comensa il glissa lentmen ma con acceleration. Quelc chocas e Ondra ne
 plu senti alcun timore, il evanesce...
 
+// Che li Slavines {{{1
 == Che li Slavines
 
 Un pian canta aproximant se finit li considerationes de Ondra. Il ja
@@ -309,6 +352,7 @@ have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
 proverbie: `"li tempor es moné`", tande ili es li max rich popul del
 munde.
 
+// Ondra contraveni un habitu del Slavines {{{1
 == Ondra contraveni un habitu del Slavines
 
 Krasina esset un excellent instructora de Ondra. Ella acompaniat le partú e
@@ -387,6 +431,7 @@ Li feminas aclamat e li mannes acceptat li decision con tonnerant hurrá!
 Quande ili ha suficent criat, ili resoluet que deman on va ear al chasse por
 procurar carne por li nuptial festine.
 
+// Li grand chasse {{{1
 == Li grand chasse
 
 In li sequent die Ondra ha esset avigilat per grand tumultu. Li mannes
@@ -430,6 +475,7 @@ retorn del mannes, ma quande ili aprendet qui ha contribuet a ti bon success,
 unes comensat apretar li pelle por li tenda del nov pare, durantque li altres
 preparat manjages por li nuptial festine.
 
+// Li nuptial ceremonie {{{1
 == Li nuptial ceremonie
 
 It ha monstrat se que li chef esset anc li prestre de su tribe. Il ha
@@ -540,6 +586,7 @@ canzones quel il conosse.
 Quande li festa ha finit, quar yunos portat li nov-marites sur ursin pelisse
 in li novi tenda.
 
+// Ondra quam preceptor {{{1
 == Ondra quam preceptor
 
 Strax li sequent die pos li nuptie Ondra ha anunciat que il va docer li
@@ -567,6 +614,7 @@ cantat.
 
 
 
+// Li explorativ via {{{1
 == Li explorativ via
 
 "`Krasina, mi culumbetta, esque tu vole acompaniar me in un viage? Yo
@@ -701,6 +749,7 @@ va visitar les ci e aportar les diversi coses. Ma yo crede que multes va exear
 pro curiositá e poy ne va voler retornar. Ma nu noi ja deve continuar nor
 explorativ via.`"
 
+// Li inundation {{{1
 == Li inundation
 
 "`Aqua! Aqua! Aqua!`"
@@ -748,6 +797,7 @@ coragie.
 Valdomir. E Ondra vide avan se un grand cataract. Ma li chef, sin perdir alcun
 parol, intrat in li cadent aqua...
 
+// Retorn in li real munde {{{1
 == Retorn in li real munde
 
 "`Il vive!`"
@@ -824,6 +874,7 @@ le.
 Depos ti tempor Ondra esset quelcvez in li subterrania. Ma benque mult
 grottes aparet le conosset, Tamen il nequande trovat su Krasina.
 
+// Posparol del editoria {{{1
 == Posparol del editoria
 
 Desde li aventura de Ondra ha passat ja circa quarant annus. Durant ti
