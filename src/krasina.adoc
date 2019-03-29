@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.5+20190329
+:revnumber: 0.1.0-dev.6+20190329
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -204,7 +204,7 @@ interessant es li studies lingual.
 
 Li cant ha cessat e avan le stat su salvatora. Quande su ocules acustomat se
 al particulari luce, quel semblat penetrar in li subterrania tra diversi
-fissuras, il discernet li conturas del feminin statura e poc e poc il posset
+fissuras, il discernet li conturas del feminin statura e poc a poc il posset
 vider passabilmen bon. Ella ha esset vestit per ursin pelisse e sur li pedes
 havet sandales ornat per fibules de ursin dentes. Anc su vestiment ne indiget
 ornamentes e to esset por Ondra un atest pri li artistic facultá del juvena. Ti
@@ -344,7 +344,7 @@ Ili ne conosse li guerres, nam ili forma un tribe. Politica, li national e
 religiosi conflictes es che ili inconosset. Ili combatte solmen con li urses e
 uros. Ma anc ti combattes es por ili symboles de combattes con lor propri mal
 inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
-pro to ne manca les ni heroes.
+pro to ne manca les li heroes.
 
 On posse presc dir que li Slavines vive exter li tempore. Ili ne es avigilat
 per aurora o per canta de gallinos, ni per fabrical sirenes. Li tempore indica
