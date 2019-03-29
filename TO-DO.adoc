@@ -1,6 +1,6 @@
 = TO-DO of _Krasina_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-24
+:revdate: 2019-03-29
 
 // This file is part of project
 // _Krasina_
@@ -11,11 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903241435
+// Last modified 201903292007
 
-- Transcription typo?: "pro to ne manca les ni heroes" -> "pro to ne
-  manca les li heroes"?  Confirm "ni" can be used alone in than sense.
 - Transcription typo?: "In su maleol un crac e il senti que il ne
   posse escapar".
-- Transcription typo?: "il discernet li conturas del feminin statura e
-  poc e poc il posset vider passabilmen bon" -> "e poc a poc".
