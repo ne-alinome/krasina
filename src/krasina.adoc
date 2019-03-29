@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.6+20190329
+:revnumber: 0.1.0-dev.7+20190329
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903291952
+// Last modified 201903292015
 
 :dot: .
 
@@ -247,8 +247,8 @@ suficent curiosi, ha decidet que ti cose ne urge.
 
 Un grand astonament evocat li horlogette de Ondra. It eat de un manu al
 altri. Chascun volet
-palpar ti marvel del munde. Li questionada `"qualmen?"`, `"pro
-quo`" e `"por quo`" ne havet li fine. Li explication esset penibil,
+palpar ti marvel del munde. Li questionada "`qualmen?`", "`pro
+quo`" e "`por quo`" ne havet li fine. Li explication esset penibil,
 nam Ondra adver ha comprendet li questiones, ma responder in un foren lingue,
 in quel on nequande ha parlat, ne es facil. Ondra devet reflecter chascun
 parol, corecter se o li tchec paroles adaptar al lingue antiqui-slavic. Solmen
@@ -289,8 +289,8 @@ it esset in un principal coridore e on posset avansar.
 
 Li Slavines ha trovat un apt loc por resider sur li rive de fluvie quel ili
 nominat Ponikva. Ti nomine nullmen surprisat Ondra, nam il savet que li
-novi-formation Punkva di necos. Ponikva significa `"submergeant aqua`".
-It proveni del antiqui-slavic lingue e li radica `"nikat`" conservat se
+novi-formation Punkva di necos. Ponikva significa "`submergeant aqua`".
+It proveni del antiqui-slavic lingue e li radica "`nikat`" conservat se
 ancor in quelc paroles tchec. Noi vell nullmen cuidar pri que li Slavines nomina
 Punkva altrimen, ma li linguistic marotte de Ondra obtenet un satisfation.
 
@@ -351,7 +351,7 @@ per aurora o per canta de gallinos, ni per fabrical sirenes. Li tempore indica
 les solmen li marea de Ponikva. Li hores e minutes ne have por ili alcun
 importantie, nam ili ne besona timer pri tard ariva in li buró o ovreria. Ili
 have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
-proverbie: `"li tempor es moné`", tande ili es li max rich popul del
+proverbie: "`li tempor es moné`", tande ili es li max rich popul del
 munde.
 
 // Ondra contraveni un habitu del Slavines {{{1
@@ -539,7 +539,7 @@ fingres e li cultel per dentes.
 Pos li carne sequet li sup contenent alqual subterran plante. Li sup esset
 cocinat in petrin vases e manjat per ossin coclares. Li festine ha finit per
 "`foyosi aqua`" quel on fat ex li radicas del sam plante. Plu tard Ondra
-ha aprendet que on nomina ti plante `"pane`". E vermen, it esset lor
+ha aprendet que on nomina ti plante "`pane`". E vermen, it esset lor
 pane, nam ultra li carne it esset lor unic nutriment.
 
 Al fine li musicantes demonstrat lor arte. Lor max perfect instrumentes
@@ -581,7 +581,7 @@ Poy sequet danses, in plupart danses figural, danses de quel ha originat
 mani populari danses tchec -- almen Ondra pensat to.
 
 Por contribuer al general gaudie, il ha cantat quelc populari canzones
-tchec, de quel `"U es mi hem?"`, `"Moravia`" e `"Flue aqua
+tchec, de quel "`U es mi hem?`", "`Moravia`" e "`Flue aqua
 frigid`" il devet repetir quelcvez. Il devet promesser docer les omni
 canzones quel il conosse.
 
@@ -602,7 +602,7 @@ camp, si ili vell forear, ili posse scrir lor comunicationes sur li roccas.
 Malgré ti litt usabilitá del scrition, omni Slavines ha aprobat li decision de
 Ondra.
 
-Ondra ha prendet un carbon e scrit sur un lapid: `"Valdomir`" e poy
+Ondra ha prendet un carbon e scrit sur un lapid: "`Valdomir`" e poy
 descomposit li parol in singul litteres e denove juntet li sylabes til que omni
 ha capit li miracul. Poy il ha invitat Valdomir a scrir self sui nomine. Ti
 procedura esset penibil, ma tamen li old chef ha successat con grand joy. Poy
@@ -731,7 +731,7 @@ avantages pri quel vu apen save. Ma malgré to yo vell preferer esser con te in
 li regne del sole e flores. In liber hores yo vell promenar con te in forestes u
 noi vell escutar li susurrada del vente, cante del avies e burdonament del apes.
 Noi vell colier bell flores e far de ili corones por te. Noi vell luder in li
-brillie del sole quam petulant infantes.
+brillie del sole quam petulant infantes.`"
 
 "`Cessa ja, Toník! Tant nov e inconosset coses yo ne posse capir in un
 vez. Yo nequande ha videt flores. Yo ne save quo es un avie, quo es un ape e
