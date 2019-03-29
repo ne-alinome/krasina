@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.3+20190329
+:revnumber: 0.1.0-dev.4+20190329
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903291940
+// Last modified 201903291952
 
 :dot: .
 
@@ -60,6 +60,8 @@ Version de ti edition:: {revnumber}.
 
 Contributiones:: Corectiones e suggestiones por sequent versiones es
 benevenit che http://ne.alinome.net[ne.alinome.net].
+
+NOTE: Li nómine de Interlingue esset "`Occidental`" til 1949.
 
 // Anteparol {{{1
 == Anteparol
