@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201904121939
+# Last modified 201904122001
 # See change log at the end of the file
 
 # ==============================================================
@@ -62,7 +62,7 @@ xml: target/$(book_basename).adoc.xml
 
 .PHONY: clean
 clean:
-	rm -f target/* tmp/*
+	rm -fr target/* tmp/*
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -160,4 +160,5 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 # 2019-03-24: Start.
 #
 # 2019-04-12: Add interface rules for OpenDocument and DocBook. Set `lang`.
-# Consider DocBook a target instead of an intermediate format.
+# Consider DocBook a target instead of an intermediate format. Make the clean
+# rule recursive.
