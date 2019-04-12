@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.10+20190412
+:revnumber: 0.1.0-dev.11+20190412
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904122044
+// Last modified 201904122115
 
 :dot: .
 
@@ -90,23 +90,23 @@ Jan A. Kajš
 == Li avigilation de Ondra
 
 Ondra esset avigilat per du fosforescent ocules fixat a su visage. Con pena
-il apertet li ocules e in li demí-luce il vide super se un inclinat cape. Il
-efortia sedentar se, ma li manus, apartenent a ti inconosset ente, presse le
+il apertet li ocules e in li demí-luce il vide súper se un inclinat cape. Il
+efortia sedentar se, ma li manus, apartenent a ti ínconosset ente, presse le
 retro.
 
-"`Jace, jace, tu es malad,`" il audi un inconosset voce.
+"`Jace, jace, tu es malad,`" il audi un ínconosset voce.
 
 Quo ha accidet le? Ti voce, benque plen de tendresse e compassion, ne
-apartene a su matre. Il leva li cap por vider plu bon qui inclina se super le.
-Il vide un particulari inconosset visage de quel li trates indica que it
-apartene a un femina. Ma, qui es ti femina e qualmen ella apari ci? Il pena
+apartene a su matre. Il leva li cap por vider plu bon qui inclina se súper le.
+Il vide un particulari ínconosset visage de quel li trates indica que it
+apartene a un fémina. Ma, qui es ti fémina e qualmen ella apari ci? Il pena
 soluer ti problema, ma li cerebre ne vole servir le, li cap es quam vacui e
 obtusi...
 
-E li inconosset femina fortia le jacer tranquilmen; ella palpat su contuset
+E li ínconosset fémina fortia le jacer tranquilmen; ella palpat su contuset
 membres, sur alcun locos su fingres halta e Ondra senti un brulant dolore. Poy
 ella invelopa le in un pelisse e da le trincar alqual acerbi decocte. Ondra
-trinca e strax indormi quam un infant con li sentiment que super le vigila un
+trinca e strax indormi quam un infant con li sentiment que súper le vigila un
 potent e afabil ente.
 
 Quande il avigilat se denove, il sentit se plu bon. Li córpore adver dolet
@@ -115,7 +115,7 @@ desaparit, tam que il ja posset reflecter.
 
 U il es? Esque li mysteriosi ente ne esset un chimere? O esque it esset
 solmen un strangi somnie? Ma no, il ya es invelopat in un pelisse quel ne
-apartene le e circum se il vide solmen roccas e super se petrin vulte con milles
+apartene le e circum se il vide solmen roccas e súper se petrin vulte con milles
 de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
 su braconal aventura e su cade...
 
@@ -210,7 +210,7 @@ havet sandales ornat per fibules de ursin dentes. Anc su vestiment ne indiget
 ornamentes e to esset por Ondra un atest pri li artistic facultá del juvena. Ti
 constatation pro cause inexplicabil, ha injoyat le e quande ella prendet su
 manu por auxiliar le levar se, percurret le un electric scintille e plenat le
-per un dulci sentiment, til nu inconosset.
+per un dulci sentiment, til nu ínconosset.
 
 Li juvena ductet le tra zigzagant coridores quel strax astrettat se talmen
 que on posset solmen con pena passar tra ili, strax ili elargat se in magnific
@@ -311,7 +311,7 @@ con li tempore li agnes perdit li fecunditá e poc a poc diminue se talmen
 que ili va desaparir. Li sam aparentie on posse constatar anc pri li uros de
 quel resta solmen un micri quantité.
 
-Li letura e scritura es che li Slavines inconosset, almen secun nor usa.
+Li letura e scritura es che li Slavines ínconosset, almen secun nor usa.
 Solmen in li pictura ili es versat, quam atestat diversi dessines per carbon,
 sur li roccas e gravuras sur ossin e petrin utensiles e vases.
 
@@ -341,7 +341,7 @@ ne augmenta se, nam alcun families es sin infantes. Li eterni Patre talmen
 cuida por que lor numere ne superpassa li condition del existentie.
 
 Ili ne conosse li guerres, nam ili forma un tribe. Politica, li national e
-religiosi conflictes es che ili inconosset. Ili combatte solmen con li urses e
+religiosi conflictes es che ili ínconosset. Ili combatte solmen con li urses e
 uros. Ma anc ti combattes es por ili symboles de combattes con lor propri mal
 inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
 pro to ne manca les li heroes.
@@ -428,7 +428,7 @@ Li old chef presentat a Ondra li manu e parlat long a su tribe. Ondra ha
 captet de ti parlada que il va esser li chef del tribe, pro que Valdomir ne
 have filio.
 
-Li feminas aclamat e li mannes acceptat li decision con tonnerant hurrá!
+Li féminas aclamat e li mannes acceptat li decision con tonnerant hurrá!
 
 Quande ili ha suficent criat, ili resoluet que deman on va ear al chasse por
 procurar carne por li nuptial festine.
@@ -472,7 +472,7 @@ quam marito. E Krasina, fieri ye su Toník, intonat li heroic canzon quel on
 cantat solmen quande alcun mann fat se celebri per un heroic acte.
 
 Interim li chasseros ha apertet li bestie per lor primitiv culteles, depellat
-e dissectet it e retornat al camp. Li feminas esset astonat per tam celebri
+e dissectet it e retornat al camp. Li féminas esset astonat per tam celebri
 retorn del mannes, ma quande ili aprendet qui ha contribuet a ti bon success,
 unes comensat apretar li pelle por li tenda del nov pare, durantque li altres
 preparat manjages por li nuptial festine.
@@ -566,11 +566,11 @@ Valdomir vu ha electet me quam su successor. Yo ne posse promesser vos alquó
 grandios, nam yo es ancor extran inter vos. Yo
 ancor ne conosse bon vor vive, vor customes e mores e pro to it es anc
 possibil que in li comense yo quelcvez va peccar contra vor leges. Ma in tal
-casus ples memorar que it ne es fat con intention, ma solmen de inconossentie.
+casus ples memorar que it ne es fat con intention, ma solmen de ínconossentie.
 Quo yo posse promesser vos, es lu sequent: Li tot amore quel mi cordie es
 capabil, yo va dar a mi popul. Omni conossenties queles yo ha aquisitet supra,
 yo vole dar vos. Yo va efortiar que almen parte del aquisitiones del modern
-tempe, queles li homanité super nos usa, deveni anc vor proprietá. Yo es pret
+tempe, queles li homanité súper nos usa, deveni anc vor proprietá. Yo es pret
 viver e morir por vos.`"
 
 Ti alocution, benque fat in defectos lingue de Slavines, evocat un grand
@@ -675,7 +675,7 @@ religion pri li
 matrimonie?`"
 
 "`Tui question tre joya me. Nor religion doce que li maritage es li
-juntion de lu bon (li amore) con lu ver (li sagesse). Li femina representa li
+juntion de lu bon (li amore) con lu ver (li sagesse). Li fémina representa li
 principie del amore e li mann li principie del sagesse. Noi save que li amore
 es figurat in li fysic munde per calore e li veritá per luce. Li tot vive es
 conditionat per calore e luce, ergo per amore e sagesse. Sin li amore e sagesse
@@ -733,7 +733,7 @@ noi vell escutar li susurrada del vente, cante del avies e burdonament del apes.
 Noi vell colier bell flores e far de ili corones por te. Noi vell luder in li
 brillie del sole quam petulant infantes.`"
 
-"`Cessa ja, Toník! Tant nov e inconosset coses yo ne posse capir in un
+"`Cessa ja, Toník! Tant nov e ínconosset coses yo ne posse capir in un
 vez. Yo nequande ha videt flores. Yo ne save quo es un avie, quo es un ape e
 forest. Tu deve explicar me omnicos. Ma yo time que yo vermen va desirar
 abandonar mi patria quel yo ama in sam gradu quam tu ama li tui.`"
@@ -758,7 +758,7 @@ explorativ via.`"
 
 Ti clamation avigilat Ondra de profund dormida pos li penosi e van vagada in
 li coridores. Il ha demettet li pellissin covritura de se e ha excurret del
-tenda por aprender quo ha accidet. In li camp eset un grand tumultu. Li feminas
+tenda por aprender quo ha accidet. In li camp eset un grand tumultu. Li féminas
 curret ci e ta, li infantes criat e li mannes colectet li necessi objectes. It
 aproxima se li aqua quel probabilmen va inundar li inferiori tuneles e
 grottes.
@@ -766,7 +766,7 @@ grottes.
 Ondra ha vocat Krasina e eat consultar Valdomir. Ti esset ja parat al
 departe. Il explicat a Ondra que alquande li fluvie deborda se e inunda omni
 coridores circum li camp. Ultimvez it ha evenit ante quelc annus. Li aqua ha
-plenat li grottes super li altore del mann. Li coridores ne suficet por capir
+plenat li grottes súper li altore del mann. Li coridores ne suficet por capir
 li masses del aqua quel constantmen montat. Quelc homes perit durant li fugida.
 Nu it es necessi far omni assecurativ preparationes.
 
