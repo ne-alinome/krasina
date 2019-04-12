@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201903241435
+# Last modified 201904121933
 # See change log at the end of the file
 
 # ==============================================================
@@ -25,12 +25,13 @@ title="Krasina"
 book_author="Jan A. Kajš"
 publisher="ne.alinome"
 description=
+lang=ie
 
 # ==============================================================
 # Interface
 
 .PHONY: all
-all: epub pdf
+all: epub odt pdf
 
 .PHONY: epub
 epub: epubd epubp epubx
@@ -43,6 +44,9 @@ epubp: target/$(book_basename).adoc.xml.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+
+.PHONY: odt
+odt: target/$(book_basename).adoc.xml.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -150,9 +154,8 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-#
-
-# ==============================================================
 # Change log
 
 # 2019-03-24: Start.
+#
+# 2019-04-12: Add interface rule for ODT. Set `lang`.
