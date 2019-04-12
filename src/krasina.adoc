@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.9+20190412
+:revnumber: 0.1.0-dev.10+20190412
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904122029
+// Last modified 201904122044
 
 :dot: .
 
@@ -73,7 +73,7 @@ usabilitá de nor lingue per traductiones. Ma on objectiona nos que li
 traductiones ne refuta li cardinal objection, it es que li lingue self ne have
 su propri vive e posse esser solmen un plu o minu perfect gramofon del lingues
 natural. Nu, mem un natural lingue es un tal gramofon de homan pensa. Por
-demonstrar que Occidenal posse haver mem original literatura, yo ha resoluet
+demonstrar que Occidental posse haver mem original literatura, yo ha resoluet
 scrir un raconta in ti-ci lingue. In quant yo ha successat, deve judicar li
 letores, nam yo self ne have li ambicie har creat un ovre maestral, nam yo ne
 es un literator, ni artist inspirat.
@@ -699,7 +699,7 @@ Che nos existe quelc principal religiones e chascun have quelc sectes.`"
 parlar altrivez. In ti ci media, precipue in ti ci miracules del natura, plu
 bon incade tui religion. Damage, que yo ancor ne ha penetrat in vor symbolica
 por posser leer in tri ci temple, quo ha scrit li natura durant millennies e
-sci ancor hodie.`"
+scri ancor hodie.`"
 
 "`Tu deve petir mi patre, il posse explicar te omnicos. Il es versat anc
 in li coses composit quam es ti ci lapides. Me atraet til nu precipue li coses
@@ -723,7 +723,7 @@ del natura ta supra. Forsan noi va successar trovar un via quel va ducter nos
 ex li subterrania.`"
 
 "`It es bell, Toník, que tu pensa a nos. Ma, esque noi ne vell esser ta
-supra quam extranes? Esque noi va posser viver per nor propri vive? sque ta
+supra quam extranes? Esque noi va posser viver per nor propri vive? Esque ta
 supra noi ne va esser in plu grand labyrint quam ci?`"
 
 "`Tui inquietation ne es sin base. Vor simpli vive certmen have su
@@ -766,7 +766,7 @@ grottes.
 Ondra ha vocat Krasina e eat consultar Valdomir. Ti esset ja parat al
 departe. Il explicat a Ondra que alquande li fluvie deborda se e inunda omni
 coridores circum li camp. Ultimvez it ha evenit ante quelc annus. Li aqua ha
-plenat li grottes super li altore del mann. Li coridores ne suficer por capir
+plenat li grottes super li altore del mann. Li coridores ne suficet por capir
 li masses del aqua quel constantmen montat. Quelc homes perit durant li fugida.
 Nu it es necessi far omni assecurativ preparationes.
 
@@ -820,10 +820,10 @@ vos in li hospital in Blansko.`"
 Mult complesent manus prepara portuore, sur quel ili cuidosimen posit Ondra
 e transportat le a Blansko.
 
-Li medicos ha constatat que ondra ne ha subeat plu grav vulneration. Li
+Li medicos ha constatat que Ondra ne ha subeat plu grav vulneration. Li
 contusiones va esser resanat durant un seman.
 
-Pos un refriscant dormida Ondra ha aprendet que Dr Absolon trovat le in li
+Pos un refriscant dormida Ondra ha aprendet que Dr.{nbsp}Absolon trovat le in li
 subterrania de Carst. On devet exportar le sur funiculari scale, quo certmen
 esset tre penibil in ti strett apertura.
 
@@ -846,15 +846,15 @@ exeat mercurdí li ninesim august e hodie noi have li decisettesim.`"
 Ti explication vell convicter chascun, ma Toník ne ha esset convictet. Il eat
 al cancelaria del usine, u on ja havet raport pri su accidente, e pro to on
 acceptat su excusa e permisset le venir al labor lunedí. De ta il hastat al
-grotte por trovar Dr Absolon e mersiar le pro li salvation.
+grotte por trovar Dr.{nbsp}Absolon e mersiar le pro li salvation.
 
-"`Vu mem ne save, qualmen vu ha servit me, amíco,`" dit Dr Absolon, li
+"`Vu mem ne save, qualmen vu ha servit me, amíco,`" dit Dr.{nbsp}Absolon, li
 explorator del Carst. "`Per vor cade vu ha apertet un nov via in li
 subterrania del Carst. Adver noi deve ancor adaptar it e far it viabil. To va
 exiger ancor mult labor.`"
 
-Ondra narrat a Dr Absolon su aventura in li subterrania e petit Dr Absolon
-prender le ad infra pro que il deve trovar su Krasina. Dr Absolon escutat con
+Ondra narrat a Dr.{nbsp}Absolon su aventura in li subterrania e petit Dr.{nbsp}Absolon
+prender le ad infra pro que il deve trovar su Krasina. Dr.{nbsp}Absolon escutat con
 grand interesse, ma poy il tornat li cap e dit: "`No, amíco, tam long null
 popul vell posser viver sin li sole. It esset solmen un somnie. Forsan un bell
 somnie, ma tamen solmen un somnie.`"
@@ -869,7 +869,7 @@ Ondra rememora que il have li libre "`Li ver cristian religion`" de
 Emanuel Swedenborg. Qualmen il ha posset obliviar ti libre quel ha impresset le
 tam profundmen? Ma malgré to il retornat deceptet.
 
-In li proxim ocasion il denova ataca Dr Absolon per questiones ca il ha
+In li proxim ocasion il denova ataca Dr.{nbsp}Absolon per questiones ca il ha
 trovat alcun tracie del Slavines. Li responses nequande posset contentar
 le.
 
