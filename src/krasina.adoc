@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.8+20190412
+:revnumber: 0.1.0-dev.9+20190412
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904122007
+// Last modified 201904122029
 
 :dot: .
 
@@ -109,7 +109,7 @@ ella invelopa le in un pelisse e da le trincar alqual acerbi decocte. Ondra
 trinca e strax indormi quam un infant con li sentiment que super le vigila un
 potent e afabil ente.
 
-Quande il avigilat se denove, il sentit se plu bon. Li corpore adver dolet
+Quande il avigilat se denove, il sentit se plu bon. Li córpore adver dolet
 ancor, il esset ancor sin forties, ma li strangi pression sur li cerebre ja ha
 desaparit, tam que il ja posset reflecter.
 
@@ -146,7 +146,7 @@ surtidas savet solmen su matre quel chascunvez audit li craca del porta, quande
 il abandonat li domette.
 
 "`Ea necú, Toník,`" ella avertit le unvez quande il prendet li clinc,
-"`yo have alqual presentiment que alquo mal va incontrar te. Resta hem,
+"`yo have alqual presentiment que alquó mal va incontrar te. Resta hem,
 almen hodíe.`"
 
 "`Eh, quo posse incontrar me? Yo es ya caut. Li forestes yo conosse bon
@@ -232,9 +232,9 @@ Ondra sentit qualmen omni ocules perfora le por decovrir su intentiones.
 
 "`Qui es tu?`" questiona li oldo.
 
-"`Yo es Toník Ondra e yo labora in li proxim ferral fonderia.`"
+"`Yo es Toník Ondra e yo labora in li proxim ferral fondería.`"
 
-"`Quo significa ferral fonderia?`"
+"`Quo significa ferral fondería?`"
 
 "`Quo es forne e quo li ferrin protometall?`"
 
@@ -325,7 +325,7 @@ homan. Li calore significa li amore quel intertene li vive fysic e spiritual.
 Li luce ilumina li intelectu, da li sagesse. Li petre significa li veritá del
 crede. Li agnello significa li innocentie, li mild animales significa li bon e
 li feroci besties li mal inclinationes del hom. Ili crede in li vive eterni in
-quel on intra per li morte, it es per li deposition del fysic corpore. Li morte
+quel on intra per li morte, it es per li deposition del fysic córpore. Li morte
 es li porta per quel on passa del fysic in li spiritual munde, del visibil in
 li invisibil munde. Li dormida da nos alqual imagination pri ti transition. Li
 nucleo del religion es li amore. Deo es li sagesse e li amore, pro to haver li
@@ -349,7 +349,7 @@ pro to ne manca les li heroes.
 On posse presc dir que li Slavines vive exter li tempore. Ili ne es avigilat
 per aurora o per canta de gallinos, ni per fabrical sirenes. Li tempore indica
 les solmen li marea de Ponikva. Li hores e minutes ne have por ili alcun
-importantie, nam ili ne besona timer pri tard ariva in li buró o ovreria. Ili
+importantie, nam ili ne besona timer pri tard ariva in li buró o ovrería. Ili
 have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
 proverbie: "`li tempor es moné`", tande ili es li max rich popul del
 munde.
@@ -419,7 +419,7 @@ Toník ha jettat li fusil sur li epol e prendet Krasina ye li manu. Ili retornet
 quam petulant infantes, gaymen cantante.
 
 Quande ili ha arivat al camp, Krasina levat li manu quam signe que ella have
-alquo por dir al tribe. Poy ella stantat se sur li puntas del pedes e trivez
+alquó por dir al tribe. Poy ella stantat se sur li puntas del pedes e trivez
 besat Ondra quo il ha reciprocat. Li yunos quel in van solicitat li favore de
 Krasina, ha jettat li fulmines del ocules, ma submisset se al ancian more.
 Krasina ha selectet su marito.
@@ -451,7 +451,7 @@ Quande ili arivat a un colossal grotte, li truppe ha dislocat se e li chef
 desligat su cane. Ti ha lansat se in un angul del grotte de u resonat un
 menaciant murmur. Li chasseros esset tendet quam li cordes de violine. Strax
 poy aparit un enorm urso atacant li aboyant cane. Li max proxim chassero ha
-brandisset su petrin clobb por un mortal colpe. Ma tande accidet alquo pri quo
+brandisset su petrin clobb por un mortal colpe. Ma tande accidet alquó pri quo
 li chasseros long poy parlat. Per ti fort brandissement li chassero perdit li
 equilibrie e cadet in un precipitie. Li urso atacat li chef quel stat max
 proxim. Ti dat al urso un fort colp. Ma ti colp tamen ne ha suficet e li
@@ -561,8 +561,8 @@ es yun, ma il senti li fortie por su nov tache. Pro to in li music-pause
 il demandat silentie por posser dir quelc paroles. Li tambures sonat. Poy Ondra
 in su alocution dit circa lu sequent:
 
-"`Mi amicos e fratres! Secun li consilie de vor potent e sagi chef
-Valdomir vu ha electet me quam su successor. Yo ne posse promesser vos alquo
+"`Mi amícos e fratres! Secun li consilie de vor potent e sagi chef
+Valdomir vu ha electet me quam su successor. Yo ne posse promesser vos alquó
 grandios, nam yo es ancor extran inter vos. Yo
 ancor ne conosse bon vor vive, vor customes e mores e pro to it es anc
 possibil que in li comense yo quelcvez va peccar contra vor leges. Ma in tal
@@ -646,9 +646,9 @@ forma se novi -- quam un image del circulant vive...
 Ondra ha resoluet reposar ci un poc.
 
 Pos li manja, quel pos penosi marcha bon sapet, Ondra ha petit Krasina,
-racontar alquo pri li psychic vive de Slavines. E Krasina, injoyat per su
+racontar alquó pri li psychic vive de Slavines. E Krasina, injoyat per su
 interesse pri li spiritual coses, racontat que li hom es un spiritu quel vive
-in un fysic corpore e simultanmen in li munde spiritual. Li corpor es limitat
+in un fysic córpore e simultanmen in li munde spiritual. Li córpor es limitat
 per li spacie, ma li spiritu vive exter li spacie, pro to noi posse esser in un
 moment in quelcunc loc.
 
@@ -717,7 +717,7 @@ superficial, pro to yo preferet evitar las.`"
 "`It es possibil que tu es injust contra ili. Yo di to malgré que tu ha
 selectet me.`"
 
-"`Tu es bon e sagi, Krasina. Con te yo certmen va far alquo por nor
+"`Tu es bon e sagi, Krasina. Con te yo certmen va far alquó por nor
 popul. Yo tre desira ducter it al luce por que ili mey joyar pri omni marveles
 del natura ta supra. Forsan noi va successar trovar un via quel va ducter nos
 ex li subterrania.`"
@@ -811,10 +811,10 @@ li subterrania.
 
 "`Trincar!`" susurra su arid labies. Complesent manus presenta le li
 refriscant aqua quel Ondra avidmen trinca. Poy il efortia levar se, ma il senti
-dolore in su tot corpore. Li regard sur li manus monstra le, que ili es plen de
-contusiones. Li corpor es quam disruptet...
+dolore in su tot córpore. Li regard sur li manus monstra le, que ili es plen de
+contusiones. Li córpor es quam disruptet...
 
-"`Quietá, amico,`" di le un svelt yun mann, "`noi va transportar
+"`Quietá, amíco,`" di le un svelt yun mann, "`noi va transportar
 vos in li hospital in Blansko.`"
 
 Mult complesent manus prepara portuore, sur quel ili cuidosimen posit Ondra
@@ -848,21 +848,21 @@ al cancelaria del usine, u on ja havet raport pri su accidente, e pro to on
 acceptat su excusa e permisset le venir al labor lunedí. De ta il hastat al
 grotte por trovar Dr Absolon e mersiar le pro li salvation.
 
-"`Vu mem ne save, qualmen vu ha servit me, amico,`" dit Dr Absolon, li
+"`Vu mem ne save, qualmen vu ha servit me, amíco,`" dit Dr Absolon, li
 explorator del Carst. "`Per vor cade vu ha apertet un nov via in li
 subterrania del Carst. Adver noi deve ancor adaptar it e far it viabil. To va
 exiger ancor mult labor.`"
 
 Ondra narrat a Dr Absolon su aventura in li subterrania e petit Dr Absolon
 prender le ad infra pro que il deve trovar su Krasina. Dr Absolon escutat con
-grand interesse, ma poy il tornat li cap e dit: "`No, amico, tam long null
+grand interesse, ma poy il tornat li cap e dit: "`No, amíco, tam long null
 popul vell posser viver sin li sole. It esset solmen un somnie. Forsan un bell
 somnie, ma tamen solmen un somnie.`"
 
 "`Ma qualmen on posse somniar pri tam logic religion del Slavine? Li
 somnies es ja sempre caotic.`"
 
-"`Forsan vu ha leet alquo del sved scientist e theolog Swedenborg. Il ha
+"`Forsan vu ha leet alquó del sved scientist e theolog Swedenborg. Il ha
 scrit pri tal coses.`"
 
 Ondra rememora que il have li libre "`Li ver cristian religion`" de
