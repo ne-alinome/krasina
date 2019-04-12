@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 201904121933
+# Last modified 201904121939
 # See change log at the end of the file
 
 # ==============================================================
@@ -57,6 +57,9 @@ pdfa4: target/$(book_basename).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book_basename).adoc.letter.pdf
 
+.PHONY: xml
+xml: target/$(book_basename).adoc.xml
+
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
@@ -76,9 +79,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/$(book_basename).adoc.xml
-
-tmp/%.adoc.xml: src/%.adoc
+target/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -88,7 +89,7 @@ tmp/%.adoc.xml: src/%.adoc
 # With dbtoepub
 
 target/$(book_basename).adoc.xml.dbtoepub.epub: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
@@ -97,7 +98,7 @@ target/$(book_basename).adoc.xml.dbtoepub.epub: \
 # With pandoc
 
 target/$(book_basename).adoc.xml.pandoc.epub: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -115,7 +116,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 # ------------------------------------------------
 # With xsltproc
 
-target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
+%.adoc.xml.xsltproc.epub: %.adoc.xml
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -140,7 +141,7 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # Convert DocBook to OpenDocument
 
 target/$(book_basename).adoc.xml.pandoc.odt: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -158,4 +159,5 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 
 # 2019-03-24: Start.
 #
-# 2019-04-12: Add interface rule for ODT. Set `lang`.
+# 2019-04-12: Add interface rules for OpenDocument and DocBook. Set `lang`.
+# Consider DocBook a target instead of an intermediate format.
