@@ -1,6 +1,6 @@
 = Krasina
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-29
+:revdate: 2019-04-12
 :toc:
 :toc-title: Contenete/Content
 
@@ -22,11 +22,69 @@
 Scope:: Crear un libre digital in EPUB e altri formates de _Krasina_,
 un rakonta original in Interlingue, scrit de Jan A. Kajš in 1938, quel
 esset ja digitalisat de Bedŕich Plavec secun li textu original e
-convertet de Thomas Schmidt in li formate PDF in 2013.
+convertet de Thomas Schmidt in formate PDF in 2013.
 
 Autor:: Marcos Cruz, 2019.
 
 Web-loc:: http://ne.alinome.net[ne.alinome.net].
+
+=== Qualmen constructer li libre
+
+Si Vu ne posse atender li liberation del sequente version, Vu self
+posse constructer li libre-documentes.
+
+In prim, ples confirmar que li programas listat in li section
+"Requirements" (besones) del document <Makefile> es instalat in Vor
+sistema.
+
+Tande ples intrar li documentiere del projecte e comandar `make` secun
+ti exemples:
+
+|===
+| Comande             | Efecte
+
+| make                | Constructer omni formates e variantes
+| make all            | Constructer omni formates e variantes
+| make epub           | Constructer li formate EPUB (omni variantes)
+| make epubd          | Constructer li formate EPUB per dbtoepub
+| make epubp          | Constructer li formate EPUB per pandoc
+| make epubx          | Constructer li formate EPUB per xsltproc
+| make odt            | Constructer li formate OpenDocument
+| make pdf            | Constructer li formate PDF (ambi grandores)
+| make pdfa4          | Constructer li formate PDF ye grandore DIN A4
+| make pdfletter      | Constructer li formate PDF ye grandore "letter"
+| make xml            | Constructer li formate DocBook
+|===
+
+Li documentes es creat in li documentiere <target>.
+
+=== Nómines del documentes final
+
+Quande omni documentes final es constructet (talmen anc contenet in e li
+liberaturas che GitHub e li archives descargabil ex
+http://ne.alinome.net[ne.alinome.net]), li contenete del documentiere <target>
+es ti:
+
+- krasina.adoc.a4.pdf
+- krasina.adoc.letter.pdf
+- krasina.adoc.xml
+- krasina.adoc.xml.dbtoepub.epub
+- krasina.adoc.xml.pandoc.epub
+- krasina.adoc.xml.pandoc.odt
+- krasina.adoc.xml.xsltproc.epub
+
+Li nómines es self-explicatori: Ili indica li operation de conversion
+de formates ex li documente fontal de
+http://asciidoctor.org[Asciidoctor], li convertores usat e li
+variantes de stil o grandore por li formates final (DocBook, EPUB,
+OpenDocument e PDF). Ultra to, ti convention nominal prevente futur
+colisiones de nómines, si plu convertores o formates vel esser
+adjuntet al projecte.
+
+NOTE: Tri convertores es usat por constructer li documentes EPUB. Tis
+constructet per dbtoepub e xsltproc es virtualmen identic, ma ambi es includet
+por possibil beson. Fórsan alcun ex li tri variantes functiona plu bon in Vor
+libre-letor.
 
 == English
 
@@ -40,3 +98,59 @@ converted into PDF format by Thomas Schmidt in 2013.
 Author:: Marcos Cruz, 2019.
 
 Website:: http://ne.alinome.net[ne.alinome.net].
+
+=== How to build the book
+
+If you cannot wait for the release of the next version, you can build
+the target files yourself.
+
+First, make sure the programs listed under the "Requirements" section
+of the <Makefile> file are installed in your system.
+
+Then enter the project's directory and give the `make` command as
+follows:
+
+|===
+| Command             | Effect
+
+| make                | Build all formats and variants
+| make all            | Build all formats and variants
+| make epub           | Build the EPUB format (all variants)
+| make epubd          | Build the EPUB format with dbtoepub
+| make epubp          | Build the EPUB format with pandoc
+| make epubx          | Build the EPUB format with xsltproc
+| make odt            | Build the OpenDocument format
+| make pdf            | Build the PDF format (both sizes)
+| make pdfa4          | Build the DIN A4 size PDF format
+| make pdfletter      | Build the letter size PDF format
+| make xml            | Build the DocBook format
+|===
+
+The documents are built in the <target> directory.
+
+=== Names of the target files
+
+When all target files are built (as included in the GitHub releases and in the
+corresponding archives downloadable from
+http://ne.alinome.net[ne.alinome.net]), the contents of the <target> directory
+are the following:
+
+- krasina.adoc.a4.pdf
+- krasina.adoc.letter.pdf
+- krasina.adoc.xml
+- krasina.adoc.xml.dbtoepub.epub
+- krasina.adoc.xml.pandoc.epub
+- krasina.adoc.xml.pandoc.odt
+- krasina.adoc.xml.xsltproc.epub
+
+The names are self-explanatory: They indicate the format conversion
+process from the http://asciidoctor.org[Asciidoctor] source document,
+the converters used and the style or size variants of the final
+formats (PDF, DocBook, EPUB and OpenDocument). Beside, this naming
+convention prevents name clashes in the future, if more tools or
+formats are added to the project.
+
+NOTE: Three converters are used to build the EPUB files. Those built
+by dbtoepub and xsltproc are virtually identical, but both of them are
+included just in case. Perhaps some of the three variants gives better
+results on your reader.
