@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.15+20190415
+:revnumber: 0.1.0-dev.16+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151750
+// Last modified 201904151753
 
 :dot: .
 
@@ -125,7 +125,7 @@ Carste...
 // Un braconal aventura de Ondra {{{1
 == Un braconal aventura de Ondra
 
-Toník Ondra havet li fama de un originalo. Il evitat li societé e su liber
+Toník Ondra havet li fama de un originalo. Il evitat li societé e su líber
 témpore il passat con libre o per vagada in li natura. In li forestes de
 Moravian Carst il conosset chascun rocca e caverne, ta il trapassat chascun
 fissura e audaciat mem penetrar in li dangerosi grottes, u ja pluri homes
@@ -199,7 +199,7 @@ plu senti alcun timore, il evanesce...
 Un pian canta aproximant se finit li considerationes de Ondra. Il ja
 percepte singul paroles quel apare le alqual conosset. De ú il conosse les? Ah,
 il ja save, ili es tam simil al antiqui slavic a quel lingue il dedicat mult
-vesperes, quande li tempe ne permisset le vagar in li forest. O, quam
+vésperes, quande li tempe ne permisset le vagar in li forest. O, quam
 interessant es li studies lingual.
 
 Li cant ha cessat e avan le stat su salvatora. Quande su ocules acustomat se
@@ -258,7 +258,7 @@ con pena. Il va besonar ancor un poc de exercicie.
 
 Quande li unesim ataca de questiones un poc ha cessat, Ondra posset un poc
 circumspecter. Li camp del Slavines esset sur li rive de un subterran fluvie.
-Li tendas esset fat de pelles de urses e uros. Sur un liber loc flammeat un foy
+Li tendas esset fat de pelles de urses e uros. Sur un líber loc flammeat un foy
 de ligne quel esset aportat del fluvie e de osses antediluvial quel trovat se
 in abundantie in li grottes.
 
@@ -728,7 +728,7 @@ supra noi ne va esser in plu grand labyrint quam ci?`"
 
 "`Tui inquietation ne es sin base. Vor simpli vive certmen have su
 avantages pri quel vu apen save. Ma malgré to yo vell preferer esser con te in
-li regne del sole e flores. In liber hores yo vell promenar con te in forestes u
+li regne del sole e flores. In líber hores yo vell promenar con te in forestes u
 noi vell escutar li susurrada del vente, cante del avies e burdonament del apes.
 Noi vell colier bell flores e far de ili corones por te. Noi vell luder in li
 brillie del sole quam petulant infantes.`"
