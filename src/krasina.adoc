@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.17+20190415
+:revnumber: 0.1.0-dev.18+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151805
+// Last modified 201904151810
 
 :dot: .
 
@@ -208,7 +208,7 @@ fissuras, il discernet li conturas del feminin statura e poc a poc il posset
 vider passabilmen bon. Ella ha esset vestit per ursin pelisse e sur li pedes
 havet sandales ornat per fibules de ursin dentes. Anc su vestiment ne indiget
 ornamentes e to esset por Ondra un atest pri li artistic facultá del juvena. Ti
-constatation pro cause inexplicabil, ha injoyat le e quande ella prendet su
+constatation pro cause ínexplicabil, ha injoyat le e quande ella prendet su
 manu por auxiliar le levar se, percurret le un electric scintille e plenat le
 per un dulci sentiment, til nu ínconosset.
 
@@ -323,11 +323,11 @@ amore juntet con li sagesse e veritá. Omni quo circuma les have un symbolic
 sense. Li aqua significa li veritá quel purifica, renova e fa trincar al anim
 homan. Li calore significa li amore quel intertene li vive fysic e spiritual.
 Li luce ilumina li intelectu, da li sagesse. Li petre significa li veritá del
-crede. Li agnello significa li innocentie, li mild animales significa li bon e
+crede. Li agnello significa li ínnocentie, li mild animales significa li bon e
 li feroci besties li mal inclinationes del hom. Ili crede in li vive eterni in
 quel on intra per li morte, it es per li deposition del fysic córpore. Li morte
 es li porta per quel on passa del fysic in li spiritual munde, del visibil in
-li invisibil munde. Li dormida da nos alqual imagination pri ti transition. Li
+li ínvisibil munde. Li dormida da nos alqual imagination pri ti transition. Li
 nucleo del religion es li amore. Deo es li sagesse e li amore, pro to haver li
 ver religion significa amar lu bon e lu ver. Amar li fonte del amore -- li Patre
 e con il amar omni su infantes.
@@ -439,7 +439,7 @@ procurar carne por li nuptial festine.
 In li sequent die Ondra ha esset avigilat per grand tumultu. Li mannes
 preparat se al chasse. In un moment il ha levat se. Il ha lavat se in li frigid
 fluvie, prendet li fusil e stantat se in li range de chasseros. E vi un
-eveniment inaudit: Krasina stantat se apu Ondra e volet acompaniar le al
+eveniment ínaudit: Krasina stantat se apu Ondra e volet acompaniar le al
 chasse. To ha evocat ínter li chasseros un murmur de inconsens, ma li chef ha
 dit que ha aparit un nov circumstantie e pro to on posse admisser anc ti ci
 particularitá.
@@ -528,7 +528,7 @@ Pos li finition del ceremonies omni sedentat se al nuptial festine.
 
 Festine! Li letor imagina se grand tables covrit per blanc toales, sur li
 tables buquetes, circum li tables stules, current servitores con platiles,
-servietes, brilliant servises e li ceteri pompe, indispensabil che li
+servietes, brilliant servises e li ceteri pompe, índispensabil che li
 potentates. Quam stupefat il vell esser, si il vell sedentar se al festine che li
 chef del Slavines!
 
@@ -679,7 +679,7 @@ juntion de lu bon (li amore) con lu ver (li sagesse). Li fémina representa li
 principie del amore e li mann li principie del sagesse. Noi save que li amore
 es figurat in li fysic munde per calore e li veritá per luce. Li tot vive es
 conditionat per calore e luce, ergo per amore e sagesse. Sin li amore e sagesse
-li ver matrimonie es inpossibil sammen quam li fysic vive es inpossibil sin li
+li ver matrimonie es ínpossibil sammen quam li fysic vive es ínpossibil sin li
 calore e luce.`"
 
 "`Yo deve confesser que yo nequande serchat un tal profundore in li
