@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.12+20190415
+:revnumber: 0.1.0-dev.13+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151736
+// Last modified 201904151740
 
 :dot: .
 
@@ -126,7 +126,7 @@ Carste...
 == Un braconal aventura de Ondra
 
 Toník Ondra havet li fama de un originalo. Il evitat li societé e su liber
-tempore il passat con libre o per vagada in li natura. In li forestes de
+témpore il passat con libre o per vagada in li natura. In li forestes de
 Moravian Carst il conosset chascun rocca e caverne, ta il trapassat chascun
 fissura e audaciat mem penetrar in li dangerosi grottes, u ja pluri homes
 perdit li via e poy cadet in alcun precipitie e ruptet li nuc.
@@ -140,7 +140,7 @@ ha fixat se a libres filosofic e linguistic.
 Su duesim amore esset li fusil. Ma ti esset "`su secret amore`". Il ne
 posset
 confesser it publicmen, nam il ne havet li jure de chasse ni li passport por
-portar li fusil. Ma forsan to esset li cause que su amore al fusil tam crescet
+portar li fusil. Ma fórsan to esset li cause que su amore al fusil tam crescet
 que alcunvez il sucumbet in tentation e surtit in nocte al braconage. Pri ti su
 surtidas savet solmen su matre quel chascunvez audit li craca del porta, quande
 il abandonat li domette.
@@ -150,8 +150,8 @@ il abandonat li domette.
 almen hodíe.`"
 
 "`Eh, quo posse incontrar me? Yo es ya caut. Li forestes yo conosse bon
-e hodie es just li max oportun tempe. It prepara se a un storm e li
-gardaforestes va esser celat. Esse sin cuida. Adio matre, dormí bon.`" E
+e hodíe es just li max oportun tempe. It prepara se a un storm e li
+gardaforestes va esser celat. Esse sin cuida. Adío matre, dormí bon.`" E
 Ondra surtit ex li domette con li fusil celat sub li mantel.
 
 Pro cautie il braconat solmen in li forestes plu distant. Pos un hor de
@@ -160,7 +160,7 @@ fusil sur li genú, preparat a tirar. Interim li vente ha acrescet e li fulmines
 trasectet li obscur firmament. In li rebrillia de fulmine il perceptet un
 capreol current tra li clariera. Un fulmine exeat del fusil e li detonation
 mixtet se con li tonnere. Ondra ha lansat se a su victime sur li clariera, ma
-in li sam tempore il audit un menaciant "`Halt`"!
+in li sam témpore il audit un menaciant "`Halt`"!
 
 Haltar? Lassar se capter? No, to ne esset in intentiones de Ondra! Il ha
 lassat li capreol jacer e per quelc saltes il ha atinget li foreste, u inter li
@@ -170,20 +170,20 @@ se il audi li menaciant "`Halt! o yo va tirar!`"
 Ondra neglige li avertiment e curre ad avan. Su persecutor trumpeta e ne
 lontan responde su compan. Per diabol! Ondra senti li dangere. Il save que li
 braconage es severmen punit. Versimilmen it es ancor un rest del servage, del
-tempore quande li chasse esset reservat por li nobilité, Si on va capter le, il
+témpore quande li chasse esset reservat por li nobilité, Si on va capter le, il
 ne va escapar li prison. Quel honte il vell causar a su old matre! Il deve
 escapar, pro to ad avan! Omni su forties il mette in li muscules de su gambes e
 curre quasi pariante con li vente. Ma anc persecutores ne reposa e ili expense
 omni forties por capter le. Talmen li chasse durat presc un demí-hor quande
 Ondra mispassuat ye un radica. In su maleol un crac e il senti que il ne posse
 escapar. Con pena il atinget li apertura de un proxim caverne. Li max extrem
-tempore, nam li persecutores es ja in su talones. Il ja audi li passus avan li
+témpore, nam li persecutores es ja in su talones. Il ja audi li passus avan li
 caverne. Li passus halta...
 
 "`Il ya ne posse esser lontan, it ha semblat me que il claudica,`" dit
 un del persecutores.
 
-"`Forsan il ha celat se in alcun caverne ci,`" adjunte li altri.
+"`Fórsan il ha celat se in alcun caverne ci,`" adjunte li altri.
 
 "`Noi posse strax explorar it, nam it es solmen sac-fores.`"
 
@@ -307,7 +307,7 @@ por ornamentes.
 Li table del Slavines esset simplic. Un apart plante, simil al asparge e
 crescent sur li rive de Ponikva, compleet li carne de uros, ursos, agnes e
 pisces. Li sal esset substituet per cindre. Ma
-con li tempore li agnes perdit li fecunditá e poc a poc diminue se talmen
+con li témpore li agnes perdit li fecunditá e poc a poc diminue se talmen
 que ili va desaparir. Li sam aparentie on posse constatar anc pri li uros de
 quel resta solmen un micri quantité.
 
@@ -346,12 +346,12 @@ uros. Ma anc ti combattes es por ili symboles de combattes con lor propri mal
 inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
 pro to ne manca les li heroes.
 
-On posse presc dir que li Slavines vive exter li tempore. Ili ne es avigilat
-per aurora o per canta de gallinos, ni per fabrical sirenes. Li tempore indica
+On posse presc dir que li Slavines vive exter li témpore. Ili ne es avigilat
+per aurora o per canta de gallinos, ni per fabrical sirenes. Li témpore indica
 les solmen li marea de Ponikva. Li hores e minutes ne have por ili alcun
 importantie, nam ili ne besona timer pri tard ariva in li buró o ovrería. Ili
-have tam mult tempore que it ha cessat esser lor sclavator. E si es ver li
-proverbie: "`li tempor es moné`", tande ili es li max rich popul del
+have tam mult témpore que it ha cessat esser lor sclavator. E si es ver li
+proverbie: "`li témpor es moné`", tande ili es li max rich popul del
 munde.
 
 // Ondra contraveni un habitu del Slavines {{{1
@@ -545,7 +545,7 @@ pane, nam ultra li carne it esset lor unic nutriment.
 Al fine li musicantes demonstrat lor arte. Lor max perfect instrumentes
 esset li tambures e li trumpetes; ti ci dominat in li symfonic concerte. Ondra
 adver ne comprendet bon quo li musica vole expresser, nam il esset inter li
-Slavines solmen curt tempore, ma malgré to il sentit que it have plu intim
+Slavines solmen curt témpore, ma malgré to il sentit que it have plu intim
 relation al vive quam li modern musica del popules con tot altri conditiones
 del vive.
 
@@ -665,7 +665,7 @@ me.`"
 
 "`Esque tu ama tui matre, Toník?`"
 
-"`Yes; forsan pro que ella es tam bon.`"
+"`Yes; fórsan pro que ella es tam bon.`"
 
 "`It es rect. Si noi ama lu bon, noi ama max mult li bon homes. To pro lu
 bon quel es in ili.`"
@@ -699,7 +699,7 @@ Che nos existe quelc principal religiones e chascun have quelc sectes.`"
 parlar altrivez. In ti ci media, precipue in ti ci miracules del natura, plu
 bon incade tui religion. Damage, que yo ancor ne ha penetrat in vor symbolica
 por posser leer in ti ci temple, quo ha scrit li natura durant millennies e
-scri ancor hodie.`"
+scri ancor hodíe.`"
 
 "`Tu deve petir mi patre, il posse explicar te omnicos. Il es versat anc
 in li coses composit quam es ti ci lapides. Me atraet til nu precipue li coses
@@ -711,7 +711,7 @@ it.`"
 
 "`Esque tu ha tam bon conosset vor yunas?`"
 
-"`Forsan mem ne. Ma ti queles yo ha conosset plu bon, aparet tro
+"`Fórsan mem ne. Ma ti queles yo ha conosset plu bon, aparet tro
 superficial, pro to yo preferet evitar las.`"
 
 "`It es possibil que tu es injust contra ili. Yo di to malgré que tu ha
@@ -719,7 +719,7 @@ selectet me.`"
 
 "`Tu es bon e sagi, Krasina. Con te yo certmen va far alquó por nor
 popul. Yo tre desira ducter it al luce por que ili mey joyar pri omni marveles
-del natura ta supra. Forsan noi va successar trovar un via quel va ducter nos
+del natura ta supra. Fórsan noi va successar trovar un via quel va ducter nos
 ex li subterrania.`"
 
 "`It es bell, Toník, que tu pensa a nos. Ma, esque noi ne vell esser ta
@@ -742,7 +742,7 @@ abandonar mi patria quel yo ama in sam gradu quam tu ama li tui.`"
 prisonat. Mi patria es tui patria, de tot tui popul quel habitat Moravia ante
 millennies.`"
 
-"`Forsan tu es rect. Ma tu deve parlar pri to con mi patre ca il va voler
+"`Fórsan tu es rect. Ma tu deve parlar pri to con mi patre ca il va voler
 abandonar li prison, qualmen tu nomina nor patria.`"
 
 "`Con plesur yo va parlar e persuader le. Solmen si noi va trovar li via
@@ -841,7 +841,7 @@ Ondra infidentmen regarda li matre, torna li cap e di:
 "`Null somnie, mamá. Yo va adducter vos mi Krasina.`"
 
 "`Yo vell desirar te it, mi car boy, ma specta in li calendare. Tu ha
-exeat mercurdí li ninesim august e hodie noi have li decisettesim.`"
+exeat mercurdí li ninesim august e hodíe noi have li decisettesim.`"
 
 Ti explication vell convicter chascun, ma Toník ne ha esset convictet. Il eat
 al cancelaria del usine, u on ja havet raport pri su accidente, e pro to on
@@ -856,13 +856,13 @@ exiger ancor mult labor.`"
 Ondra narrat a Dr.{nbsp}Absolon su aventura in li subterrania e petit Dr.{nbsp}Absolon
 prender le ad infra pro que il deve trovar su Krasina. Dr.{nbsp}Absolon escutat con
 grand interesse, ma poy il tornat li cap e dit: "`No, amíco, tam long null
-popul vell posser viver sin li sole. It esset solmen un somnie. Forsan un bell
+popul vell posser viver sin li sole. It esset solmen un somnie. Fórsan un bell
 somnie, ma tamen solmen un somnie.`"
 
 "`Ma qualmen on posse somniar pri tam logic religion del Slavines? Li
 somnies es ja sempre caotic.`"
 
-"`Forsan vu ha leet alquó del sved scientist e theolog Swedenborg. Il ha
+"`Fórsan vu ha leet alquó del sved scientist e theolog Swedenborg. Il ha
 scrit pri tal coses.`"
 
 Ondra rememora que il have li libre "`Li ver cristian religion`" de
@@ -873,14 +873,14 @@ In li proxim ocasion il denova ataca Dr.{nbsp}Absolon per questiones ca il ha
 trovat alcun tracie del Slavines. Li responses nequande posset contentar
 le.
 
-Depos ti tempor Ondra esset quelcvez in li subterrania. Ma benque mult
+Depos ti témpor Ondra esset quelcvez in li subterrania. Ma benque mult
 grottes aparet le conosset. Tamen il nequande trovat su Krasina.
 
 // Posparol del editoria {{{1
 == Posparol del editoria
 
 Desde li aventura de Ondra ha passat ja circa quarant annus. Durant ti
-tempore li explorationes del Moravian Carst ha tre progresset. On ne solmen
+témpore li explorationes del Moravian Carst ha tre progresset. On ne solmen
 decovrit mult magnific grottes, ma anc fat les accessibil per comod vias
 electrificat.
 
