@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.16+20190415
+:revnumber: 0.1.0-dev.17+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151753
+// Last modified 201904151805
 
 :dot: .
 
@@ -156,14 +156,14 @@ Ondra surtit ex li domette con li fusil celat sub li mantel.
 
 Pro cautie il braconat solmen in li forestes plu distant. Pos un hor de
 energic marcha il sedentat se sur li margine de un clariera e atendet con li
-fusil sur li genú, preparat a tirar. Interim li vente ha acrescet e li fulmines
+fusil sur li genú, preparat a tirar. Ínterim li vente ha acrescet e li fulmines
 trasectet li obscur firmament. In li rebrillia de fulmine il perceptet un
 capreol current tra li clariera. Un fulmine exeat del fusil e li detonation
 mixtet se con li tonnere. Ondra ha lansat se a su victime sur li clariera, ma
 in li sam témpore il audit un menaciant "`Halt`"!
 
 Haltar? Lassar se capter? No, to ne esset in intentiones de Ondra! Il ha
-lassat li capreol jacer e per quelc saltes il ha atinget li foreste, u inter li
+lassat li capreol jacer e per quelc saltes il ha atinget li foreste, u ínter li
 árbores il esset plu secur contra li balles. Il precipita se adavan, ma detra
 se il audi li menaciant "`Halt! o yo va tirar!`"
 
@@ -252,7 +252,7 @@ quo`" e "`por quo`" ne havet li fine. Li explication esset penibil,
 nam Ondra adver ha comprendet li questiones, ma responder in un foren lingue,
 in quel on nequande ha parlat, ne es facil. Ondra devet reflecter chascun
 parol, corecter se o li tchec paroles adaptar al lingue antiqui-slavic. Solmen
-ci il reconosset li diferentie inter li passiv e activ saventie del lingue.
+ci il reconosset li diferentie ínter li passiv e activ saventie del lingue.
 Ondra comprendet li lingue del Slavines, ma parlar lor lingue il posset solmen
 con pena. Il va besonar ancor un poc de exercicie.
 
@@ -380,7 +380,7 @@ contrit Ondra.
 
 "`Esque ne exculpa nos mi ignorantie de vor mores?`"
 
-"`Inter nos veni nequí ignorant nor mores.`"
+"`Ínter nos veni nequí ignorant nor mores.`"
 
 "`To es vermen fatal... Ma, atende, Krasina. Esque tu ne ha dit que
 solmen li puella posse besar li mann quel ella ha selectet?`"
@@ -440,7 +440,7 @@ In li sequent die Ondra ha esset avigilat per grand tumultu. Li mannes
 preparat se al chasse. In un moment il ha levat se. Il ha lavat se in li frigid
 fluvie, prendet li fusil e stantat se in li range de chasseros. E vi un
 eveniment inaudit: Krasina stantat se apu Ondra e volet acompaniar le al
-chasse. To ha evocat inter li chasseros un murmur de inconsens, ma li chef ha
+chasse. To ha evocat ínter li chasseros un murmur de inconsens, ma li chef ha
 dit que ha aparit un nov circumstantie e pro to on posse admisser anc ti ci
 particularitá.
 
@@ -454,7 +454,7 @@ poy aparit un enorm urso atacant li aboyant cane. Li max proxim chassero ha
 brandisset su petrin clobb por un mortal colpe. Ma tande accidet alquó pri quo
 li chasseros long poy parlat. Per ti fort brandissement li chassero perdit li
 equilibrie e cadet in un precipitie. Li urso atacat li chef quel stat max
-proxim. Ti dat al urso un fort colp. Ma ti colp tamen ne ha suficet e li
+proxim. Ti dat al urso un fort colp. Ma ti colp támen ne ha suficet e li
 furiosi bestie ha captet in su pattes li chef plu tost quam il posset dar li
 duesim colp per su clobb. Li bestie comensat tornar se con su victime e li
 chasseros ne audaciat batter it por ne atinger lor chef.
@@ -471,7 +471,7 @@ tribe ne posset desirar plu bon chef quam va esser ti quel Krasina selectet
 quam marito. E Krasina, fieri ye su Toník, intonat li heroic canzon quel on
 cantat solmen quande alcun mann fat se celebri per un heroic acte.
 
-Interim li chasseros ha apertet li bestie per lor primitiv culteles, depellat
+Ínterim li chasseros ha apertet li bestie per lor primitiv culteles, depellat
 e dissectet it e retornat al camp. Li féminas esset astonat per tam celebri
 retorn del mannes, ma quande ili aprendet qui ha contribuet a ti bon success,
 unes comensat apretar li pelle por li tenda del nov pare, durantque li altres
@@ -490,7 +490,7 @@ li aqua. Poy ili, tenente se ye un manu, per li altri devet svimmar contra li
 fluentie del fluvie. Ili inmerget se in li aqua quel esset tam frigid que Ondra
 claccat li dentes.
 
-Interim Valdomir ha fat li foy sur un lapid e reverentiante a omni lateres,
+Ínterim Valdomir ha fat li foy sur un lapid e reverentiante a omni lateres,
 il exclamat: "`Auxila nos, ó Patre!`"
 
 Pos to li sponses surtit del aqua e strax esset invelopat in calid pelisses
@@ -544,7 +544,7 @@ pane, nam ultra li carne it esset lor unic nutriment.
 
 Al fine li musicantes demonstrat lor arte. Lor max perfect instrumentes
 esset li tambures e li trumpetes; ti ci dominat in li symfonic concerte. Ondra
-adver ne comprendet bon quo li musica vole expresser, nam il esset inter li
+adver ne comprendet bon quo li musica vole expresser, nam il esset ínter li
 Slavines solmen curt témpore, ma malgré to il sentit que it have plu intim
 relation al vive quam li modern musica del popules con tot altri conditiones
 del vive.
@@ -563,7 +563,7 @@ in su alocution dit circa lu sequent:
 
 "`Mi amícos e fratres! Secun li consilie de vor potent e sagi chef
 Valdomir vu ha electet me quam su successor. Yo ne posse promesser vos alquó
-grandios, nam yo es ancor extran inter vos. Yo
+grandios, nam yo es ancor extran ínter vos. Yo
 ancor ne conosse bon vor vive, vor customes e mores e pro to it es anc
 possibil que in li comense yo quelcvez va peccar contra vor leges. Ma in tal
 casus ples memorar que it ne es fat con intention, ma solmen de ínconossentie.
@@ -595,9 +595,9 @@ Strax li sequent die pos li nuptie Ondra ha anunciat que il va docer li
 letion e scition e ha invitat omni Slavines partiprender in li aprension. Omni
 ha venit essente curiosi pri ti novitá. Ondra ha explicat quel importantie have
 li scritura por li homes in supra u on printa diversi libres e jurnales, u es
-exchangeat lettres inter homes tre distant li un del altri. Por li Slavines to
+exchangeat lettres ínter homes tre distant li un del altri. Por li Slavines to
 posse haver solmen limitat importantie, pro que ili ne have li paper ni li
-possibilitá printar libres. Ili tamen posse comodmen lassar informationes in li
+possibilitá printar libres. Ili támen posse comodmen lassar informationes in li
 camp, si ili vell forear, ili posse scrir lor comunicationes sur li roccas.
 Malgré ti litt usabilitá del scrition, omni Slavines ha aprobat li decision de
 Ondra.
@@ -605,12 +605,12 @@ Ondra.
 Ondra ha prendet un carbon e scrit sur un lapid: "`Valdomir`" e poy
 descomposit li parol in singul litteres e denove juntet li sylabes til que omni
 ha capit li miracul. Poy il ha invitat Valdomir a scrir self su nómine. Ti
-procedura esset penibil, ma tamen li old chef ha successat con grand joy. Poy
+procedura esset penibil, ma támen li old chef ha successat con grand joy. Poy
 Ondra scrit li nómines comensant per V, A, L, D etc. Chascun esset fieri que in
 li unesim lecion il ha aprendet scrir su nómine.
 
 Secun ti metode Ondra continuat chascun die quelc hores. Bentost il videt
-que inter li max diligent eleves excelle su Krasina. Li joy del eleves crescet
+que ínter li max diligent eleves excelle su Krasina. Li joy del eleves crescet
 chascun die e pos quelc leciones ili posset leer li canzones quel Ondra scrit e
 cantat.
 
@@ -770,7 +770,7 @@ plenat li grottes súper li altore del mann. Li coridores ne suficet por capir
 li masses del aqua quel constantmen montat. Quelc homes perit durant li fugida.
 Nu it es necessi far omni assecurativ preparationes.
 
-Valdomir, benque il formalmen transdat li duction a Ondra, tamen til nu
+Valdomir, benque il formalmen transdat li duction a Ondra, támen til nu
 esset aconosset quam autoritá e il self ne posset acustomar se a un subordinat
 rol. Pro to il ha ordonat preparar se al fugida.
 
@@ -857,7 +857,7 @@ Ondra narrat a Dr.{nbsp}Absolon su aventura in li subterrania e petit Dr.{nbsp}A
 prender le ad infra pro que il deve trovar su Krasina. Dr.{nbsp}Absolon escutat con
 grand interesse, ma poy il tornat li cap e dit: "`No, amíco, tam long null
 popul vell posser viver sin li sole. It esset solmen un somnie. Fórsan un bell
-somnie, ma tamen solmen un somnie.`"
+somnie, ma támen solmen un somnie.`"
 
 "`Ma qualmen on posse somniar pri tam logic religion del Slavines? Li
 somnies es ja sempre caotic.`"
@@ -874,7 +874,7 @@ trovat alcun tracie del Slavines. Li responses nequande posset contentar
 le.
 
 Depos ti témpor Ondra esset quelcvez in li subterrania. Ma benque mult
-grottes aparet le conosset. Tamen il nequande trovat su Krasina.
+grottes aparet le conosset. Támen il nequande trovat su Krasina.
 
 // Posparol del editoria {{{1
 == Posparol del editoria
