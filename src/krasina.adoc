@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.14+20190415
+:revnumber: 0.1.0-dev.15+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151744
+// Last modified 201904151750
 
 :dot: .
 
@@ -164,7 +164,7 @@ in li sam témpore il audit un menaciant "`Halt`"!
 
 Haltar? Lassar se capter? No, to ne esset in intentiones de Ondra! Il ha
 lassat li capreol jacer e per quelc saltes il ha atinget li foreste, u inter li
-arbores il esset plu secur contra li balles. Il precipita se adavan, ma detra
+árbores il esset plu secur contra li balles. Il precipita se adavan, ma detra
 se il audi li menaciant "`Halt! o yo va tirar!`"
 
 Ondra neglige li avertiment e curre ad avan. Su persecutor trumpeta e ne
@@ -344,7 +344,7 @@ Ili ne conosse li guerres, nam ili forma un tribe. Politica, li national e
 religiosi conflictes es che ili ínconosset. Ili combatte solmen con li urses e
 uros. Ma anc ti combattes es por ili symboles de combattes con lor propri mal
 inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
-pro to ne manca les li heroes.
+pro to ne manca les li heróes.
 
 On posse presc dir que li Slavines vive exter li témpore. Ili ne es avigilat
 per aurora o per canta de gallinos, ni per fabrical sirenes. Li témpore indica
@@ -501,10 +501,10 @@ circa:
 
 [verse]
 --
-Ó spiritu sin comense e fine,
-spiritu sin nascentie e morte,
-spiritu imensi in fortie,
-spiritu constant in amore.
+Ó spíritu sin comense e fine,
+spíritu sin nascentie e morte,
+spíritu imensi in fortie,
+spíritu constant in amore.
 a te noi sacrifica nor cordies,
 a te noi consacra nor vives,
 e anc ti ci yun pare.
@@ -647,12 +647,12 @@ Ondra ha resoluet reposar ci un poc.
 
 Pos li manja, quel pos penosi marcha bon sapet, Ondra ha petit Krasina,
 racontar alquó pri li psychic vive de Slavines. E Krasina, injoyat per su
-interesse pri li spiritual coses, racontat que li hom es un spiritu quel vive
+interesse pri li spiritual coses, racontat que li hom es un spíritu quel vive
 in un fysic córpore e simultanmen in li munde spiritual. Li córpor es limitat
-per li spacie, ma li spiritu vive exter li spacie, pro to noi posse esser in un
+per li spacie, ma li spíritu vive exter li spacie, pro to noi posse esser in un
 moment in quelcunc loc.
 
-Ondra ha translocat se in spiritu a su nativ dom e parlat con su matre quel
+Ondra ha translocat se in spíritu a su nativ dom e parlat con su matre quel
 esset plen de timore pri su unic filio.
 
 "`Yes, it es talmen, Krasina,`" afirmat Ondra, "`just yo ha
