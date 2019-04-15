@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.13+20190415
+:revnumber: 0.1.0-dev.14+20190415
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904151740
+// Last modified 201904151744
 
 :dot: .
 
@@ -288,7 +288,7 @@ del grotte ha ruit e barrat li exeada. Li familie esset inprisonat. Felicimen
 it esset in un principal coridore e on posset avansar.
 
 Li Slavines ha trovat un apt loc por resider sur li rive de fluvie quel ili
-nominat Ponikva. Ti nomine nullmen surprisat Ondra, nam il savet que li
+nominat Ponikva. Ti nómine nullmen surprisat Ondra, nam il savet que li
 novi-formation Punkva di necos. Ponikva significa "`submergeant aqua`".
 It proveni del antiqui-slavic lingue e li radica "`nikat`" conservat se
 ancor in quelc paroles tchec. Noi vell nullmen cuidar pri que li Slavines nomina
@@ -336,9 +336,9 @@ Ti simplic religion da les tant materie por meditation que lor rason es tre
 developat e lor cordie nequande desira dominar, nam li amore ducte a servir li
 proximo.
 
-Li etá del Slavines es relativmen curt -- admaxim quinant annus. Lor numere
+Li etá del Slavines es relativmen curt -- admaxim quinant annus. Lor númere
 ne augmenta se, nam alcun families es sin infantes. Li eterni Patre talmen
-cuida por que lor numere ne superpassa li condition del existentie.
+cuida por que lor númere ne superpassa li condition del existentie.
 
 Ili ne conosse li guerres, nam ili forma un tribe. Politica, li national e
 religiosi conflictes es che ili ínconosset. Ili combatte solmen con li urses e
@@ -354,8 +354,8 @@ have tam mult témpore que it ha cessat esser lor sclavator. E si es ver li
 proverbie: "`li témpor es moné`", tande ili es li max rich popul del
 munde.
 
-// Ondra contraveni un habitu del Slavines {{{1
-== Ondra contraveni un habitu del Slavines
+// Ondra contraveni un hábitu del Slavines {{{1
+== Ondra contraveni un hábitu del Slavines
 
 Krasina esset un excellent instructora de Ondra. Ella acompaniat le partú e
 narrat le per quo li Slavines ocupa se. In li proxim ocasion Ondra eat a
@@ -371,7 +371,7 @@ quande il provat inbrassar la denove, ella forcurret con singlutada. Ondra
 devet usar omni eloquentie por quietar la tant que ella posset explicar le quo
 ha accidet tam horribil. Per su act Ondra tam desdignat la que ella ne posse
 con bon conscientie revenir a su tribe. Solmen li puella have li jure besar li
-mann quel ella vole maritar. Tal es li habitu del Slavines.
+mann quel ella vole maritar. Tal es li hábitu del Slavines.
 
 "`Esque vermen ne existe escape de ti mal situation?`" questionat li
 contrit Ondra.
@@ -380,7 +380,7 @@ contrit Ondra.
 
 "`Esque ne exculpa nos mi ignorantie de vor mores?`"
 
-"`Inter nos veni nequi ignorant nor mores.`"
+"`Inter nos veni nequí ignorant nor mores.`"
 
 "`To es vermen fatal... Ma, atende, Krasina. Esque tu ne ha dit que
 solmen li puella posse besar li mann quel ella ha selectet?`"
@@ -604,10 +604,10 @@ Ondra.
 
 Ondra ha prendet un carbon e scrit sur un lapid: "`Valdomir`" e poy
 descomposit li parol in singul litteres e denove juntet li sylabes til que omni
-ha capit li miracul. Poy il ha invitat Valdomir a scrir self su nomine. Ti
+ha capit li miracul. Poy il ha invitat Valdomir a scrir self su nómine. Ti
 procedura esset penibil, ma tamen li old chef ha successat con grand joy. Poy
-Ondra scrit li nomines comensant per V, A, L, D etc. Chascun esset fieri que in
-li unesim lecion il ha aprendet scrir su nomine.
+Ondra scrit li nómines comensant per V, A, L, D etc. Chascun esset fieri que in
+li unesim lecion il ha aprendet scrir su nómine.
 
 Secun ti metode Ondra continuat chascun die quelc hores. Bentost il videt
 que inter li max diligent eleves excelle su Krasina. Li joy del eleves crescet
