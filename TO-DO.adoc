@@ -1,6 +1,6 @@
 = TO-DO of _Krasina_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-04-15
+:revdate: 2019-05-01
 
 // This file is part of project
 // _Krasina_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904152236
+// Last modified 201905011821
 
 - Transcription typo?: "In su maleol un crac e il senti que il ne
   posse escapar".
@@ -21,6 +21,3 @@
 - Update "defectos" -> "defectosi"?
 - "filú"?
 - "dormí".
-- Fix punctuation: "Depos ti témpor Ondra esset quelcvez in li
-  subterrania. Ma benque mult grottes aparet le conosset. Támen il
-  nequande trovat su Krasina."
