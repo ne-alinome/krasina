@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.22+20190601
+:revnumber: 0.1.0-dev.23+20190601
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201906012253
+// Last modified 201906012311
 
 :dot: .
 
@@ -49,6 +49,8 @@ Changes in ti edition::
 - Omni errores trovat ha esset corectet.
 - Por facilisar li letion al nov aprensores del lingue, omni accentus
   ha esset mettet.
+- Pro li sam motive, li old usationes del vocalic "`y`" ha esset
+  remplazzat per "`i`".
 
 Libre digital fat solmen per líber programas:: 
 http://asciidoctor.org[Asciidoctor],
@@ -119,7 +121,7 @@ Quande il avigilat se denove, il sentit se plu bon. Li córpore adver dolet
 ancor, il esset ancor sin forties, ma li strangi pression sur li cerebre ja ha
 desaparit, tam que il ja posset reflecter.
 
-U il es? Esque li mysteriosi ente ne esset un chimere? O esque it esset
+U il es? Esque li misteriosi ente ne esset un chimere? O esque it esset
 solmen un strangi somnie? Ma no, il ya es invelopat in un pelisse quel ne
 apartene le e circum se il vide solmen roccas e súper se petrin vulte con milles
 de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
@@ -277,7 +279,7 @@ In li visage de livid colore, sub larg fronte, brilliat du verdatri ocules
 queles, astonantmen, regardat suavi e calidmen.
 
 Ondra ha esset surprisat per li aspect de ti grottal gente. Il imaginat se
-li troglodytes con plat fronte e salient guancial osses, durantque il vide ci
+li troglodites con plat fronte e salient guancial osses, durantque il vide ci
 li formes de cranies pri queles null cultural popul vell dever hontar. Li chef
 ha finit li festine per un prega in quel il mersiat li Patre por lu bon e ver
 figurat per nutrimentes quel li Slavines recive in suficent quantitá. Ondra ha
@@ -325,14 +327,14 @@ Mill-annual tradition, anxiosmen mantenet, di que lor ancestres esset pastores e
 
 Ili have anc lor propri religion. Ili crede al Patre sin li comense e fine --
 sin li nascentie e morte -- quel mantene li munde per li foy e aqua, per li
-amore juntet con li sagesse e veritá. Omni quo circuma les have un symbolic
+amore juntet con li sagesse e veritá. Omni quo circuma les have un simbolic
 sense. Li aqua significa li veritá quel purifica, renova e fa trincar al anim
-homan. Li calore significa li amore quel intertene li vive fysic e spiritual.
+homan. Li calore significa li amore quel intertene li vive fisic e spiritual.
 Li luce ilumina li intelectu, da li sagesse. Li petre significa li veritá del
 crede. Li agnello significa li ínnocentie, li mild animales significa li bon e
 li feroci besties li mal inclinationes del hom. Ili crede in li vive eterni in
-quel on intra per li morte, it es per li deposition del fysic córpore. Li morte
-es li porta per quel on passa del fysic in li spiritual munde, del visibil in
+quel on intra per li morte, it es per li deposition del fisic córpore. Li morte
+es li porta per quel on passa del fisic in li spiritual munde, del visibil in
 li ínvisibil munde. Li dormida da nos alqual imagination pri ti transition. Li
 nucleo del religion es li amore. Deo es li sagesse e li amore, pro to haver li
 ver religion significa amar lu bon e lu ver. Amar li fonte del amore -- li Patre
@@ -348,7 +350,7 @@ cuida por que lor númere ne superpassa li condition del existentie.
 
 Ili ne conosse li guerres, nam ili forma un tribe. Politica, li national e
 religiosi conflictes es che ili ínconosset. Ili combatte solmen con li urses e
-uros. Ma anc ti combattes es por ili symboles de combattes con lor propri mal
+uros. Ma anc ti combattes es por ili simboles de combattes con lor propri mal
 inclinationes. Ti combattes pro manca de apt armes es sovente plen de dangere e
 pro to ne manca les li heróes.
 
@@ -522,7 +524,7 @@ cantat:
 
 [verse]
 --
-Lor capilles, del fortie li symbole,
+Lor capilles, del fortie li simbole,
 ci in foy nu ha unit se.
 --
 
@@ -549,14 +551,14 @@ ha aprendet que on nomina ti plante "`pane`". E vermen, it esset lor
 pane, nam ultra li carne it esset lor unic nutriment.
 
 Al fine li musicantes demonstrat lor arte. Lor max perfect instrumentes
-esset li tambures e li trumpetes; ti ci dominat in li symfonic concerte. Ondra
+esset li tambures e li trumpetes; ti ci dominat in li simfonic concerte. Ondra
 adver ne comprendet bon quo li musica vole expresser, nam il esset ínter li
 Slavines solmen curt témpore, ma malgré to il sentit que it have plu intim
 relation al vive quam li modern musica del popules con tot altri conditiones
 del vive.
 
 Ho, quam il regretat que il ne manua alcun musical instrument! Ma -- esque li
-grottal popul vell comprender su musica? Esque it vell comprender su hymne pri li
+grottal popul vell comprender su musica? Esque it vell comprender su himne pri li
 sole, pri li flores, susurrada del vente e cante de avies?
 
 Certmen it ne vell comprender. Ma -- esque li circumitá ne va lansar Ondra in
@@ -609,7 +611,7 @@ Malgré ti litt usabilitá del scrition, omni Slavines ha aprobat li decision de
 Ondra.
 
 Ondra ha prendet un carbon e scrit sur un lapid: "`Valdomir`" e poy
-descomposit li parol in singul lítteres e denove juntet li sylabes til que omni
+descomposit li parol in singul lítteres e denove juntet li silabes til que omni
 ha capit li miracul. Poy il ha invitat Valdomir a scrir self su nómine. Ti
 procedura esset penibil, ma támen li old chef ha successat con grand joy. Poy
 Ondra scrit li nómines comensant per V, A, L, D etc. Chascun esset fieri que in
@@ -652,9 +654,9 @@ forma se novi -- quam un image del circulant vive...
 Ondra ha resoluet reposar ci un poc.
 
 Pos li manja, quel pos penosi marcha bon sapet, Ondra ha petit Krasina,
-racontar alquó pri li psychic vive de Slavines. E Krasina, injoyat per su
+racontar alquó pri li psichic vive de Slavines. E Krasina, injoyat per su
 interesse pri li spiritual coses, racontat que li hom es un spíritu quel vive
-in un fysic córpore e simultanmen in li munde spiritual. Li córpor es limitat
+in un fisic córpore e simultanmen in li munde spiritual. Li córpor es limitat
 per li spacie, ma li spíritu vive exter li spacie, pro to noi posse esser in un
 moment in quelcunc loc.
 
@@ -683,9 +685,9 @@ matrimonie?`"
 "`Tui question tre joya me. Nor religion doce que li maritage es li
 juntion de lu bon (li amore) con lu ver (li sagesse). Li fémina representa li
 principie del amore e li mann li principie del sagesse. Noi save que li amore
-es figurat in li fysic munde per calore e li veritá per luce. Li tot vive es
+es figurat in li fisic munde per calore e li veritá per luce. Li tot vive es
 conditionat per calore e luce, ergo per amore e sagesse. Sin li amore e sagesse
-li ver matrimonie es ínpossibil sammen quam li fysic vive es ínpossibil sin li
+li ver matrimonie es ínpossibil sammen quam li fisic vive es ínpossibil sin li
 calore e luce.`"
 
 "`Yo deve confesser que yo nequande serchat un tal profundore in li
@@ -703,7 +705,7 @@ Che nos existe quelc principal religiones e chascun have quelc sectes.`"
 
 "`Noi crede, ma chascun eclesie explica Le altrimen. Ma pri to yo va
 parlar altrivez. In ti ci media, precipue in ti ci miracules del natura, plu
-bon incade tui religion. Damage, que yo ancor ne ha penetrat in vor symbolica
+bon incade tui religion. Damage, que yo ancor ne ha penetrat in vor simbolica
 por posser leer in ti ci temple, quo ha scrit li natura durant millennies e
 scri ancor hodíe.`"
 
@@ -730,7 +732,7 @@ ex li subterrania.`"
 
 "`It es bell, Toník, que tu pensa a nos. Ma, esque noi ne vell esser ta
 supra quam extranes? Esque noi va posser viver per nor propri vive? Esque ta
-supra noi ne va esser in plu grand labyrint quam ci?`"
+supra noi ne va esser in plu grand labirint quam ci?`"
 
 "`Tui inquietation ne es sin base. Vor simpli vive certmen have su
 avantages pri quel vu apen save. Ma malgré to yo vell preferer esser con te in
@@ -890,25 +892,25 @@ témpore li explorationes del Moravian Carst ha tre progresset. On ne solmen
 decovrit mult magnific grottes, ma anc fat les accessibil per comod vias
 electrificat.
 
-Li exploration exiget anc mult pena e labor fysic. On devet ingagear mem
-scafandres e automatic pumpes e sovente anc dynamit devet auxiliar por junter
-li grottes e far li via al abyss Macocha (Matsokha = step-matre). Ti penibil e
-expensiv labor es ja coronat, nam on posse dir, que li abyss Macocha con li
+Li exploration exiget anc mult pena e labor fisic. On devet ingagear mem
+scafandres e automatic pumpes e sovente anc dinamit devet auxiliar por junter
+li grottes e far li via al abiss Macocha (Matsokha = step-matre). Ti penibil e
+expensiv labor es ja coronat, nam on posse dir, que li abiss Macocha con li
 grottes apartene al max grand marveles del natura in li munde.
 
-Li abyss es in realitá un anteyan colossal grotte (profund 138.4 m, larg 76 e
+Li abiss es in realitá un anteyan colossal grotte (profund 138.4 m, larg 76 e
 long 175 m), de quel li
-plafon ha ruit e talmen ha format se li gigantic abyss. Ante li labores
+plafon ha ruit e talmen ha format se li gigantic abiss. Ante li labores
 mentionat on posset atinger li funde de Macocha solmen per un ferrin scale, ma
 nu on posse atinger it comodmen per coridores del grottes de Punkva.
 
 Ma ne solmen li grottes de Punkva, anc li vicin grottes de Caterina
 (Kateřinské) e li splendid grotte de Masaryk fa un impression quel on ne posse
-obliviar. Anc pri li labyrint-grottes de Sloup e Šosůvka e pri li grottes de
+obliviar. Anc pri li labirint-grottes de Sloup e Šosůvka e pri li grottes de
 Ostrov on posse parlar solmen con superlatives.
 
 Noi ha dit que li explorationes de Moravian Carst es ja presc finit, ma
-recentmen on ha decovrit un nov subterran labyrint proxim Boskovice.
+recentmen on ha decovrit un nov subterran labirint proxim Boskovice.
 
 Omni ti ovres del natura merite esser videt. Li marveles es plu bell quam
 posset racontar li simplic ovrero Ondra. Ili es plu bell, plu splendid, plu
