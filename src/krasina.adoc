@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.21+20190501
+:revnumber: 0.1.0-dev.22+20190601
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904152231
+// Last modified 201906012253
 
 :dot: .
 
@@ -842,7 +842,7 @@ pri li vive in li subterrania.
 "`No, Toník, tu solmen somniat to. Tu ya esset solmen un seman ex li dom
 e de ti seman tu esset six dies in li hospital.`"
 
-Ondra infidentmen regarda li matre, torna li cap e di:
+Ondra ínfidentmen regarda li matre, torna li cap e di:
 
 "`Null somnie, mamá. Yo va adducter vos mi Krasina.`"
 
@@ -896,7 +896,7 @@ li grottes e far li via al abyss Macocha (Matsokha = step-matre). Ti penibil e
 expensiv labor es ja coronat, nam on posse dir, que li abyss Macocha con li
 grottes apartene al max grand marveles del natura in li munde.
 
-Li abyss es in realitá un anteyan colossal grotte (profun 138.4 m, larg 76 e
+Li abyss es in realitá un anteyan colossal grotte (profund 138.4 m, larg 76 e
 long 175 m), de quel li
 plafon ha ruit e talmen ha format se li gigantic abyss. Ante li labores
 mentionat on posset atinger li funde de Macocha solmen per un ferrin scale, ma
