@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-dev.23+20190601
+:revnumber: 0.1.0-dev.24+20190602
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201906012311
+// Last modified 201906021315
 
 :dot: .
 
@@ -159,7 +159,7 @@ almen hodíe.`"
 
 "`Eh, quo posse incontrar me? Yo es ya caut. Li forestes yo conosse bon
 e hodíe es just li max oportun tempe. It prepara se a un storm e li
-gardaforestes va esser celat. Esse sin cuida. Adío matre, dormí bon.`" E
+gardaforestes va esser celat. Esse sin cuida. Adío matre, dormi bon.`" E
 Ondra surtit ex li domette con li fusil celat sub li mantel.
 
 Pro cautie il braconat solmen in li forestes plu distant. Pos un hor de
