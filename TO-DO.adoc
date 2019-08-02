@@ -1,6 +1,6 @@
 = TO-DO of _Krasina_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-13
+:revdate: 2019-08-02
 
 // This file is part of project
 // _Krasina_
@@ -11,11 +11,8 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201906130007
+// Last modified 201908021537
 
-- Transcription typo?: "In su maleol un crac e il senti que il ne
-  posse escapar".
-- Add all accents.
 - Consult "inconsens": ín-con-sens, non-con-sens.
 - Update "musculos" -> "musculosi"?
 - Update "defectos" -> "defectosi"?
