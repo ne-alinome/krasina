@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-pre.0+20190802
+:revnumber: 0.1.0-pre.1+20190802
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908021539
+// Last modified 201908021604
 
 :dot: .
 
@@ -449,7 +449,7 @@ In li sequent die Ondra ha esset avigilat per grand tumultu. Li mannes
 preparat se al chasse. In un moment il ha levat se. Il ha lavat se in li frigid
 fluvie, prendet li fusil e stantat se in li range de chasseros. E vi un
 eveniment ínaudit: Krasina stantat se apu Ondra e volet acompaniar le al
-chasse. To ha evocat ínter li chasseros un murmur de inconsens, ma li chef ha
+chasse. To ha evocat ínter li chasseros un murmur de ínconsens, ma li chef ha
 dit que ha aparit un nov circumstantie e pro to on posse admisser anc ti ci
 particularitá.
 

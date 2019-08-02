@@ -13,6 +13,5 @@
 //
 // Last modified 201908021537
 
-- Consult "inconsens": ín-con-sens, non-con-sens.
 - Update "musculos" -> "musculosi"?
 - Update "defectos" -> "defectosi"?
