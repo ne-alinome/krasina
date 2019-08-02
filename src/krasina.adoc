@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0-pre.1+20190802
+:revnumber: 0.1.0+20190802
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
