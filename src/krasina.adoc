@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.1.0+20190802
+:revnumber: 0.2.0-dev.0+20200223
 :version-label: Version de edition digital:
 :lang: ie
 :docinfo: private
@@ -38,7 +38,7 @@ Anunciat in Cosmoglotta, serie A, numeró 149, 1949-10.
 
 Digitalisation:: Bedŕich Plavec, secun li textu original.
 
-Conversion a PDF:: Thomas Schimidt, 2013. Obtenibil in
+Conversion a PDF:: Thomas Schmidt, 2013. Obtenibil in
 http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, revision, e edition quam libre digital:: Marcos Cruz,
