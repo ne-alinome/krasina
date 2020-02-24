@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202002241231
+# Last modified 202002241845
 # See change log at the end of the file
 
 # ==============================================================
@@ -24,6 +24,7 @@ VPATH=./src:./target
 
 book_basename=krasina
 title="Krasina"
+subtitle="Original raconta ex li subterrania de Moravian Carst"
 book_author="Jan A. Kajš"
 publisher="ne.alinome"
 description=
@@ -67,7 +68,7 @@ pdfletter: target/$(book_basename).adoc.letter.pdf
 xml: target/$(book_basename).adoc.xml
 
 .PHONY: cover
-cover: tmp/book_cover.jpg
+cover: tmp/book_cover.jpg tmp/book_cover_thumb.jpg
 
 .PHONY: clean
 clean:
@@ -189,27 +190,45 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 
 # ------------------------------------------------
 # Create the canvas and texts of the cover image
- 
+
+font=Linux-Libertine-O
+background=black
+fill=white
+strokewidth=4
+
 tmp/book_cover.canvas.jpg:
 	convert \
 		-size 1200x1600 \
-		canvas:khaki \
+		canvas:$(background) \
 		$@
 
 tmp/book_cover.title.jpg:
 	convert \
-		-background khaki \
-		-font Helvetica \
-		-pointsize 200 \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 175 \
 		-size 1200x \
 		-gravity center \
 		caption:$(title) \
 		$@
 
+tmp/book_cover.subtitle.jpg:
+	convert \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 50 \
+		-size 700x \
+		-gravity center \
+		caption:$(subtitle) \
+		$@
+
 tmp/book_cover.author.jpg:
 	convert \
-		-background khaki \
-		-font Helvetica \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(font) \
 		-pointsize 90 \
 		-size 1200x \
 		-gravity center \
@@ -222,11 +241,13 @@ tmp/book_cover.author.jpg:
 tmp/book_cover.jpg: \
 	tmp/book_cover.canvas.jpg \
 	tmp/book_cover.title.jpg \
+	tmp/book_cover.subtitle.jpg \
 	tmp/book_cover.author.jpg \
 	img/moravian_carst.jpg
-	composite -gravity north -geometry +0+40 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
-	composite -gravity south -geometry +0+40 tmp/book_cover.author.jpg tmp/book_cover.jpg $@
-	composite -gravity center img/moravian_carst.jpg tmp/book_cover.jpg $@
+	composite -gravity north  -geometry +0+070 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
+	composite -gravity north  -geometry +0+250 tmp/book_cover.subtitle.jpg tmp/book_cover.jpg $@
+	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg tmp/book_cover.jpg $@
+	composite -gravity center -geometry +0+070 img/moravian_carst.jpg tmp/book_cover.jpg $@
 
 # ------------------------------------------------
 # Convert the cover image to PDF
@@ -236,6 +257,12 @@ tmp/book_cover.jpg: \
 
 tmp/book_cover.pdf: tmp/book_cover.jpg
 	img2pdf --output $@ --border 0 $<
+
+# ------------------------------------------------
+# Create a thumb version of the cover image
+
+tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
+	convert $< -resize 190x $@
 
 # ==============================================================
 # Change log
@@ -250,4 +277,5 @@ tmp/book_cover.pdf: tmp/book_cover.jpg
 #
 # 2020-02-24: Deactivate EPUB made with xsltproc and dbtoepub, which don't
 # include the cover image yet. Deactivate also the ODT format. Make only the
-# formats that can include the cover image.
+# formats that can include the cover image. Improve the cover image: add
+# subtitle, change font, size and position of texts.
