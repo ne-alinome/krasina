@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.3+20200224
+:revnumber: 0.2.0-dev.4+20200224
 :version-label: Version del edition digital:
 :lang: ie
 :docinfo: private
@@ -109,7 +109,7 @@ il apertet li ocules e in li demí-luce il vide súper se un inclinat cape. Il
 efortia sedentar se, ma li manus, apartenent a ti ínconosset ente, presse le
 retro.
 
-«Jace, jace, tu es malad,» il audi un ínconosset voce.
+«Jace, jace, tu es malad», il audi un ínconosset voce.
 
 Quo ha accidet le? Ti voce, benque plen de tendresse e compassion, ne
 apartene a su matre. Il leva li cap por vider plu bon qui inclina se súper le.
@@ -195,10 +195,10 @@ escapar. Con pena il atinget li apertura de un proxim caverne. Li max extrem
 témpore, nam li persecutores es ja in su talones. Il ja audi li passus avan li
 caverne. Li passus halta...
 
-«Il ya ne posse esser lontan, it ha semblat me que il claudica,» dit
+«Il ya ne posse esser lontan, it ha semblat me que il claudica», dit
 un del persecutores.
 
-«Fórsan il ha celat se in alcun caverne ci,» adjunte li altri.
+«Fórsan il ha celat se in alcun caverne ci», adjunte li altri.
 
 «Noi posse strax explorar it, nam it es solmen sac-fores.»
 
@@ -403,7 +403,7 @@ contrit Ondra.
 «To es vermen fatal... Ma, atende, Krasina. Esque tu ne ha dit que
 solmen li puella posse besar li mann quel ella ha selectet?»
 
-«Yes, to yo ha dit. It es talmen e in to jace nor malfortun,»
+«Yes, to yo ha dit. It es talmen e in to jace nor malfortun»,
 respondet Krasina con resignation.
 
 «Esque tu ne comprende, mi cordiette, que in to es nor
@@ -636,7 +636,7 @@ cantat.
 == Li explorativ via
 
 «Krasina, mi culumbetta, esque tu vole acompaniar me in un viage? Yo
-desira inspecter mi imperia,» dit Ondra a su yun marita.
+desira inspecter mi imperia», dit Ondra a su yun marita.
 
 «Con plesur, Toník. Noi va preparar li proviant e deman va ear ad ú tu
 va desirar.»
@@ -811,7 +811,7 @@ Ili ha intrat in li aqua quel curret rapidmen in li tunel. Li canes devet ja
 svimmar. Li aqua atinget ja li cintura del mannes, ma ili ne perdi li
 coragie.
 
-«Si noi va successar in ti segment, noi posse gratular nos,» di
+«Si noi va successar in ti segment, noi posse gratular nos», di
 Valdomir. E Ondra vide avan se un grand cataract. Ma li chef, sin perdir alcun
 parol, intrat in li cadent aqua...
 
@@ -864,7 +864,7 @@ al cancelaria del usine, u on ja havet raport pri su accidente, e pro to on
 acceptat su excusa e permisset le venir al labor lunedí. De ta il hastat al
 grotte por trovar Dr.{nbsp}Absolon e mersiar le pro li salvation.
 
-«Vu mem ne save, qualmen vu ha servit me, amíco,» dit Dr.{nbsp}Absolon, li
+«Vu mem ne save, qualmen vu ha servit me, amíco», dit Dr.{nbsp}Absolon, li
 explorator del Carst. «Per vor cade vu ha apertet un nov via in li
 subterrania del Carst. Adver noi deve ancor adaptar it e far it viabil. To va
 exiger ancor mult labor.»
