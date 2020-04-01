@@ -1,7 +1,8 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.4+20200224
-:version-label: Version del edition digital:
+:revnumber: 0.2.0-dev.5+20200224
+:version-label_: Version de ti-ci edition digital
+:version-label: {version-label_}:
 :lang: ie
 :docinfo: private
 ifdef::backend-pdf[]
@@ -21,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202002232018
+// Last modified 202002242202
 
 :dot: .
 
@@ -35,9 +36,9 @@ Subtitul:: Original raconta ex li subterrania de Moravian Carst.
 Autor:: {author}.
 
 Edition original:: Printería de J. A. Kajš, Brno, 1938.
-Anunciat in Cosmoglotta, serie A, numeró 149, 1949-10.
+Anunciat in _Cosmoglotta_, serie A, numeró 149, 1949-10.
 
-Digitalisation:: Bedŕich Plavec, secun li textu original.
+Digitalisation del textu original:: Bedŕich Plavec.
 
 Conversion a PDF:: Thomas Schmidt, 2013. Obtenibil in
 http://ie-munde.com[ie-munde.com].
@@ -46,18 +47,16 @@ Conversion a Asciidoctor, revision, e edition quam libre digital::
 Marcos Cruz, 2019, 2020{dot} Obtenibil in
 http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 
-Fotogramma del covriment:: Moravian Carst (ex  
-https://czadventures.wordpress.com/top-10[Czech Adventures]).
-
 Changes in ti edition::
+- Omni erras trovat esset corectet.
+- Por facilisar li letion al nov aprensores del lingue:
+** Omni accentus esset mettet.
+** Li old vocalic «y» esset remplazzat per «i».
+** Li old sufix «-os» esset remplazzat per «-osi».
 
-- Omni errores trovat ha esset corectet.
-- Por facilisar li letion al nov aprensores del lingue, omni accentus
-  ha esset mettet.
-- Pro li sam motive, li old usationes del vocalic «y» ha esset
-  remplazzat per «i».
+{version-label_}:: {revnumber}.
 
-Libre digital fat solmen per líber programas:: 
+Libre digital fat solmen per líber programas::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
 http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
@@ -71,7 +70,8 @@ http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
 http://xmlsoft.org/XSLT/[xsltproc]...
 
-Version de ti edition digital:: {revnumber}.
+Fotogramma del covriment:: Moravian Carst (ex
+https://czadventures.wordpress.com/top-10[Czech Adventures]).
 
 Contributiones:: Corectiones e suggestiones por sequent versiones es
 benevenit che http://ne.alinome.net[ne.alinome.net].
@@ -281,7 +281,7 @@ Krasina ne posset detraer su ocules de Ondra. Durant li festine, arangeat al
 honore de Ondra, ella presentat le li maxim grass boccades, quo il quittat per
 grat regardes.
 
-Krasina esset de mediocri altore con musculos brasses e bell-format gambes.
+Krasina esset de mediocri altore con musculosi brasses e bell-format gambes.
 In li visage de livid colore, sub larg fronte, brilliat du verdatri ocules
 queles, astonantmen, regardat suavi e calidmen.
 
@@ -591,7 +591,7 @@ yo vole dar vos. Yo va efortiar que almen parte del aquisitiones del modern
 témpore, queles li homanité súper nos usa, deveni anc vor proprietá. Yo es pret
 viver e morir por vos.»
 
-Ti alocution, benque fat in defectos lingue de Slavines, evocat un grand
+Ti alocution, benque fat in defectosi lingue de Slavines, evocat un grand
 entusiasme. Li tamburada ne volet cessar e Ondra esset circumat de mannes
 volent far con le li sanguin fratrinitá.
 

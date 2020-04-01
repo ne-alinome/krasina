@@ -3,19 +3,32 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202002241845
+# Last modified 202003161222
 # See change log at the end of the file
 
 # ==============================================================
 # Requirements
 
-# - Asciidoctor
-# - asciidoctor-pdf
-# - dbtoepub
-# - ImageMagick  
-# - img2pdf  
-# - Pandoc
-# - xsltproc
+# Asciidoctor (by Dan Allen, Sarah White et al.)
+#   http://asciidoctor.org
+
+# Asciidoctor PDF (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-pdf
+
+# dbtoepub
+#   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# ImageMagick (by ImageMagick Studio LCC)
+#   http://imagemagick.org
+
+# img2pdf (by Johannes 'josch' Schauer)
+#   https://gitlab.mister-muffin.de/josch/img2pdf
+
+# Pandoc (by John MacFarlane)
+#   http://pandoc.org
+
+# xsltproc
+#   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
 # Config
@@ -26,7 +39,7 @@ book_basename=krasina
 title="Krasina"
 subtitle="Original raconta ex li subterrania de Moravian Carst"
 book_author="Jan A. Kajš"
-publisher="ne.alinome"
+publisher="ne alinome"
 description=
 lang=ie
 
@@ -237,7 +250,7 @@ tmp/book_cover.author.jpg:
 
 # ------------------------------------------------
 # Create the cover image
- 
+
 tmp/book_cover.jpg: \
 	tmp/book_cover.canvas.jpg \
 	tmp/book_cover.title.jpg \
@@ -279,3 +292,7 @@ tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
 # include the cover image yet. Deactivate also the ODT format. Make only the
 # formats that can include the cover image. Improve the cover image: add
 # subtitle, change font, size and position of texts.
+#
+# 2020-03-16: Fix typo.
+#
+# 2020-03-30: Update the publisher.
