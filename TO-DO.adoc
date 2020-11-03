@@ -11,4 +11,8 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040011
+// Last modified 202011040022
+
+- silabes -> síllabes
+- capit?
+- ... -> …
