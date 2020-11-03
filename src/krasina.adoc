@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.7+20201104
+:revnumber: 0.2.0-dev.8+20201104
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -25,7 +25,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040025
+// Last modified 202011040028
 
 :dot: .
 
@@ -622,7 +622,7 @@ Malgré ti litt usabilitá del scrition, omni Slavines ha aprobat li decision de
 Ondra.
 
 Ondra ha prendet un carbon e scrit sur un lapid: «Valdomir» e poy
-descomposit li parol in singul lítteres e denove juntet li silabes til que omni
+descomposit li parol in singul lítteres e denove juntet li síllabes til que omni
 ha capit li miracul. Poy il ha invitat Valdomir a scrir self su nómine. Ti
 procedura esset penibil, ma támen li old chef ha successat con grand joy. Poy
 Ondra scrit li nómines comensant per V, A, L, D etc. Chascun esset fieri que in
