@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.6+20201104
+:revnumber: 0.2.0-dev.7+20201104
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -25,7 +25,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040019
+// Last modified 202011040025
 
 :dot: .
 
@@ -69,7 +69,7 @@ http://imagemagick.org[ImageMagick],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://pandoc.org[Pandoc],
 http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]...
+http://xmlsoft.org/XSLT/[xsltproc]…
 
 Fotogramma del covriment:: Moravian Carst (ex
 https://czadventures.wordpress.com/top-10[Czech Adventures]).
@@ -117,7 +117,7 @@ apartene a su matre. Il leva li cap por vider plu bon qui inclina se súper le.
 Il vide un particulari ínconosset visage de quel li trates indica que it
 apartene a un fémina. Ma, qui es ti fémina e qualmen ella apari ci? Il pena
 soluer ti problema, ma li cerebre ne vole servir le, li cap es quam vacui e
-obtusi...
+obtusi…
 
 E li ínconosset fémina fortia le jacer tranquilmen; ella palpat su contuset
 membres, sur alcun locos su fingres halta e Ondra senti un brulant dolore. Poy
@@ -133,10 +133,10 @@ U il es? Esque li misteriosi ente ne esset un chimere? O esque it esset
 solmen un strangi somnie? Ma no, il ya es invelopat in un pelisse quel ne
 apartene le e circum se il vide solmen roccas e súper se petrin vulte con milles
 de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
-su braconal aventura e su cade...
+su braconal aventura e su cade…
 
 Yes, it es talmen, li erra es excludet. It trova se in li subterrania del
-Carste...
+Carste…
 
 // Un braconal aventura de Ondra {{{1
 == Un braconal aventura de Ondra
@@ -194,7 +194,7 @@ omni forties por capter le. Talmen li chasse durat presc un demí-hor quande
 Ondra mispassuat ye un radica. In su maleol un crac e il senti que il ne posse
 escapar. Con pena il atinget li apertura de un proxim caverne. Li max extrem
 témpore, nam li persecutores es ja in su talones. Il ja audi li passus avan li
-caverne. Li passus halta...
+caverne. Li passus halta…
 
 «Il ya ne posse esser lontan, it ha semblat me que il claudica», dit
 un del persecutores.
@@ -204,10 +204,10 @@ un del persecutores.
 «Noi posse strax explorar it, nam it es solmen sac-fores.»
 
 Ondra senti li frissone. It es li fine, il ne va escapar. Silentmen il pussa
-se al max extrem angul del caverne e presse al frigid mur... Li persecutores in
+se al max extrem angul del caverne e presse al frigid mur… Li persecutores in
 li strett proximitá. Subitmen Ondra senti que li suol move se e il glissa a
 bass; in comensa il glissa lentmen ma con acceleration. Quelc chocas e Ondra ne
-plu senti alcun timore, il evanesce...
+plu senti alcun timore, il evanesce…
 
 // Che li Slavines {{{1
 == Che li Slavines
@@ -401,7 +401,7 @@ contrit Ondra.
 
 «Ínter nos veni nequí ignorant nor mores.»
 
-«To es vermen fatal... Ma, atende, Krasina. Esque tu ne ha dit que
+«To es vermen fatal… Ma, atende, Krasina. Esque tu ne ha dit que
 solmen li puella posse besar li mann quel ella ha selectet?»
 
 «Yes, to yo ha dit. It es talmen e in to jace nor malfortun»,
@@ -413,7 +413,7 @@ salvation?»
 «Qualmen it vell esser possibil?» Krasina fixat a Ondra su ocules in
 quel manifestat se li surpris e dubita.
 
-«To es ya tre simplic cose... Tu ha ya besat me li unesim e poy yo ha
+«To es ya tre simplic cose… Tu ha ya besat me li unesim e poy yo ha
 besat te. Esque tu vermen ha obliviat to?»
 
 Krasina esset stupefat per surpris, ma bentost ella reconsciet e jettat se
@@ -658,7 +658,7 @@ In altri grottes ili trovat stalactites formant fantastic figuras de nanes,
 cornes, vases, calices e divers objectes por li homan fantasie. Un altri
 grotte presentat li image de destruction. Ta li plafon con pesant stalactites
 ha ruit e nu omnicos jace sur li terra in un caos. Ma vice li ruit stalactites
-forma se novi -- quam un image del circulant vive...
+forma se novi -- quam un image del circulant vive…
 
 Ondra ha resoluet reposar ci un poc.
 
@@ -814,7 +814,7 @@ coragie.
 
 «Si noi va successar in ti segment, noi posse gratular nos», di
 Valdomir. E Ondra vide avan se un grand cataract. Ma li chef, sin perdir alcun
-parol, intrat in li cadent aqua...
+parol, intrat in li cadent aqua…
 
 // Retorn in li real munde {{{1
 == Retorn in li real munde
@@ -829,7 +829,7 @@ li subterrania.
 «Trincar!» susurra su arid labies. Complesent manus presenta le li
 refriscant aqua quel Ondra avidmen trinca. Poy il efortia levar se, ma il senti
 dolore in su tot córpore. Li regard sur li manus monstra le, que ili es plen de
-contusiones. Li córpor es quam disruptet...
+contusiones. Li córpor es quam disruptet…
 
 «Quietá, amíco,» di le un svelt yun mann, «noi va transportar
 vos in li hospital in Blansko.»
