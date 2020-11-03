@@ -1,6 +1,6 @@
 = TO-DO of _Krasina_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-02
+:revdate: 2020-11-04
 
 // This file is part of project
 // _Krasina_
@@ -11,7 +11,4 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908021537
-
-- Update "musculos" -> "musculosi"?
-- Update "defectos" -> "defectosi"?
+// Last modified 202011040011
