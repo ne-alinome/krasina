@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011040008
+# Last modified 202011040021
 # See change log at the end of the file
 
 # ==============================================================
@@ -11,6 +11,9 @@
 
 # Asciidoctor (by Dan Allen, Sarah White et al.)
 #   http://asciidoctor.org
+
+# Asciidoctor EPUB3 (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-epub3
 
 # Asciidoctor PDF (by Dan Allen and Sarah White)
 #   http://github.com/asciidoctor/asciidoctor-pdf
@@ -318,4 +321,4 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 # <target>. Activate the building of EPUB with Asciidoctor EPUB3. Add rule to
 # build only the thumb cover image. Add rule to build the recommended formats.
 # Build also AZW3, from EPUB. Replace DocBook extension ".xml" with ".dbk".
-# Improve the extensions to indicate the size of PDF.
+# Improve the extensions to indicate the size of PDF. Update requirements.
