@@ -3,11 +3,11 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202003161222
+# Last modified 202011040008
 # See change log at the end of the file
 
 # ==============================================================
-# Requirements
+# Requirements {{{1
 
 # Asciidoctor (by Dan Allen, Sarah White et al.)
 #   http://asciidoctor.org
@@ -17,6 +17,9 @@
 
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# ebook-convert
+#   manual.calibre-ebook.com/generated/en/ebook-convert.html
 
 # ImageMagick (by ImageMagick Studio LCC)
 #   http://imagemagick.org
@@ -31,11 +34,11 @@
 #   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
-# Config
+# Config {{{1
 
 VPATH=./src:./target
 
-book_basename=krasina
+book=krasina
 title="Krasina"
 subtitle="Original raconta ex li subterrania de Moravian Carst"
 book_author="Jan A. Kajš"
@@ -44,100 +47,108 @@ description=
 lang=ie
 
 # ==============================================================
-# Interface
+# Interface {{{1
+
+.PHONY: recommended
+recommended: azw3 epuba pdfa4 thumb
 
 .PHONY: all
-all: epub pdf
+all: azw3 epub pdf thumb
+
+.PHONY: azw3
+azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: epub
-epub: epubp
+epub: epuba epubp
 
-# XXX REMARK -- Not used yet:
 .PHONY: epuba
-epuba: target/$(book_basename).adoc.epub
+epuba: target/$(book).adoc.epub
 
 .PHONY: epubd
-epubd: target/$(book_basename).adoc.xml.dbtoepub.epub
+epubd: target/$(book).adoc.dbk.dbtoepub.epub
 
 .PHONY: epubp
-epubp: target/$(book_basename).adoc.xml.pandoc.epub
+epubp: target/$(book).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
-epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+epubx: target/$(book).adoc.dbk.xsltproc.epub
 
 .PHONY: odt
-odt: target/$(book_basename).adoc.xml.pandoc.odt
+odt: target/$(book).adoc.dbk.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4
 
 .PHONY: pdfa4
-pdfa4: target/$(book_basename).adoc.a4.pdf
+pdfa4: target/$(book).adoc._a4.pdf
 
 .PHONY: pdfletter
-pdfletter: target/$(book_basename).adoc.letter.pdf
+pdfletter: target/$(book).adoc._letter.pdf
 
-.PHONY: xml
-xml: target/$(book_basename).adoc.xml
+.PHONY: dbk
+dbk: target/$(book).adoc.dbk
 
 .PHONY: cover
-cover: tmp/book_cover.jpg tmp/book_cover_thumb.jpg
+cover: target/$(book)_cover.jpg
+
+.PHONY: thumb
+thum: target/$(book)_cover_thumb.jpg
 
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
 
 # ==============================================================
-# Convert Asciidoctor to PDF
+# Convert Asciidoctor to PDF {{{1
 
-target/%.adoc.a4.pdf: src/%.adoc tmp/book_cover.pdf
+target/%.adoc._a4.pdf: src/%.adoc tmp/$(book)_cover.jpg.pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc.letter.pdf: src/%.adoc tmp/book_cover.pdf
+target/%.adoc._letter.pdf: src/%.adoc tmp/$(book)_cover.jpg.pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to EPUB
+# Convert Asciidoctor to EPUB {{{1
 
 # XXX REMARK -- Not used yet, because asciidoctor-epub3 needs the chapters to
 # be splitted in independent files, and included into the main source.
 
-target/%.adoc.epub: src/%.adoc tmp/book_cover.jpg
+target/%.adoc.epub: src/%.adoc target/$(book)_cover.jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to DocBook
+# Convert Asciidoctor to DocBook {{{1
 
-target/%.adoc.xml: src/%.adoc
+target/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
-# Convert DocBook to EPUB
+# Convert DocBook to EPUB {{{1
 
 # ------------------------------------------------
-# With dbtoepub
+# With dbtoepub {{{2
 
 # XXX TODO -- Add the cover image. There's no parameter to do it.
 
-target/$(book_basename).adoc.xml.dbtoepub.epub: \
-	target/$(book_basename).adoc.xml \
-	src/$(book_basename)-docinfo.xml
+target/$(book).adoc.dbk.dbtoepub.epub: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
 
 # ------------------------------------------------
-# With pandoc
+# With pandoc {{{2
 
-target/$(book_basename).adoc.xml.pandoc.epub: \
-	target/$(book_basename).adoc.xml \
-	src/$(book_basename)-docinfo.xml \
+target/$(book).adoc.dbk.pandoc.epub: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css \
-	tmp/book_cover.jpg
+	target/$(book)_cover.jpg
 	pandoc \
 		--from docbook \
 		--to epub3 \
@@ -147,13 +158,13 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 		--variable=autor:$(book_author) \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
-		--epub-cover-image=tmp/book_cover.jpg \
+		--epub-cover-image=target/$(book)_cover.jpg \
 		--output $@ $<
 
 # ------------------------------------------------
-# With xsltproc
+# With xsltproc {{{2
 
-%.adoc.xml.xsltproc.epub: %.adoc.xml tmp/book_cover.jpg
+%.adoc.dbk.xsltproc.epub: %.adoc.dbk target/$(book)_cover.jpg
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -170,7 +181,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 # XXX TODO -- Add the cover image. Beside copying the image, the files
 # <toc.ncx> and <content.opf> must be modified:
 #
-#	cp -f tmp/book_cover.jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
+#	cp -f target/$(book)_cover.jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
 
 # XXX TODO -- Find out how to pass parameters and their names, from the XLS:
 #
@@ -182,11 +193,11 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
-# Convert DocBook to OpenDocument
+# Convert DocBook to OpenDocument {{{1
 
-target/$(book_basename).adoc.xml.pandoc.odt: \
-	target/$(book_basename).adoc.xml \
-	src/$(book_basename)-docinfo.xml \
+target/$(book).adoc.dbk.pandoc.odt: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
 		--from docbook \
@@ -199,10 +210,16 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-# Create the cover image
+# Convert EPUB to AZW3 {{{1
+
+target/%.epub.azw3: target/%.epub
+	ebook-convert $< $@
+
+# ==============================================================
+# Create the cover image {{{1
 
 # ------------------------------------------------
-# Create the canvas and texts of the cover image
+# Create the canvas and texts {{{2
 
 font=Linux-Libertine-O
 background=black
@@ -249,36 +266,36 @@ tmp/book_cover.author.jpg:
 		$@
 
 # ------------------------------------------------
-# Create the cover image
+# Create the cover image {{{2
 
-tmp/book_cover.jpg: \
+target/$(book)_cover.jpg: \
 	tmp/book_cover.canvas.jpg \
 	tmp/book_cover.title.jpg \
 	tmp/book_cover.subtitle.jpg \
 	tmp/book_cover.author.jpg \
 	img/moravian_carst.jpg
 	composite -gravity north  -geometry +0+070 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
-	composite -gravity north  -geometry +0+250 tmp/book_cover.subtitle.jpg tmp/book_cover.jpg $@
-	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg tmp/book_cover.jpg $@
-	composite -gravity center -geometry +0+070 img/moravian_carst.jpg tmp/book_cover.jpg $@
+	composite -gravity north  -geometry +0+250 tmp/book_cover.subtitle.jpg target/$(book)_cover.jpg $@
+	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg target/$(book)_cover.jpg $@
+	composite -gravity center -geometry +0+070 img/moravian_carst.jpg target/$(book)_cover.jpg $@
 
 # ------------------------------------------------
-# Convert the cover image to PDF
+# Convert the cover image to PDF {{{2
 
 # This is needed in order to make sure the cover image ocuppies the whole page
 # in the PDF versions of the book.
 
-tmp/book_cover.pdf: tmp/book_cover.jpg
+tmp/%_cover.jpg.pdf: target/%_cover.jpg
 	img2pdf --output $@ --border 0 $<
 
 # ------------------------------------------------
-# Create a thumb version of the cover image
+# Create a thumb version of the cover image {{{2
 
-tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
+%_cover_thumb.jpg: %_cover.jpg
 	convert $< -resize 190x $@
 
 # ==============================================================
-# Change log
+# Change log {{{1
 
 # 2019-03-24: Start.
 #
@@ -296,3 +313,9 @@ tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
 # 2020-03-16: Fix typo.
 #
 # 2020-03-30: Update the publisher.
+#
+# 2020-11-03: Shorten variable. Improve some rules. Move cover images to
+# <target>. Activate the building of EPUB with Asciidoctor EPUB3. Add rule to
+# build only the thumb cover image. Add rule to build the recommended formats.
+# Build also AZW3, from EPUB. Replace DocBook extension ".xml" with ".dbk".
+# Improve the extensions to indicate the size of PDF.
