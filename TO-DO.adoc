@@ -15,4 +15,3 @@
 
 - silabes -> síllabes
 - capit?
-- ... -> …
