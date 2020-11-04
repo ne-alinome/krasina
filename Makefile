@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011041749
+# Last modified 202011041840
 # See change log at the end of the file
 
 # ==============================================================
@@ -95,7 +95,7 @@ dbk: target/$(book).adoc.dbk
 cover: target/$(book)_cover.jpg
 
 .PHONY: thumb
-thum: target/$(book)_cover_thumb.jpg
+thumb: target/$(book)_cover_thumb.jpg
 
 .PHONY: clean
 clean:
@@ -337,4 +337,4 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 # Build also AZW3, from EPUB. Replace DocBook extension ".xml" with ".dbk".
 # Improve the extensions to indicate the size of PDF. Update requirements.
 #
-# 2020-11-04: Add the publisher to the cover.
+# 2020-11-04: Add the publisher to the cover. Fix the thumb cover rule.
