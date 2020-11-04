@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011040021
+# Last modified 202011040050
 # See change log at the end of the file
 
 # ==============================================================
@@ -53,7 +53,7 @@ lang=ie
 # Interface {{{1
 
 .PHONY: recommended
-recommended: azw3 epuba pdfa4 thumb
+recommended: epuba pdfa4 thumb
 
 .PHONY: all
 all: azw3 epub pdf thumb
@@ -85,8 +85,8 @@ pdf: pdfa4
 .PHONY: pdfa4
 pdfa4: target/$(book).adoc._a4.pdf
 
-.PHONY: pdfletter
-pdfletter: target/$(book).adoc._letter.pdf
+.PHONY: pdfl
+pdfl: target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
