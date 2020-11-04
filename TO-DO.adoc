@@ -11,4 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040028
+// Last modified 202011040043
+
+NOTE: Li autor scri sempre "ataca" vice "atacca", durante que il scri
+altri omni duplic lítteres.
