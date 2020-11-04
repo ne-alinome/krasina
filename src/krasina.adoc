@@ -25,10 +25,11 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011041429
+// Last modified 202011041857
 
 :dot: .
 
+[colophon]
 // Pri ti libre {{{1
 == Pri ti libre
 
