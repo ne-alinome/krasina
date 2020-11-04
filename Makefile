@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011040050
+# Last modified 202011041749
 # See change log at the end of the file
 
 # ==============================================================
@@ -225,6 +225,7 @@ target/%.epub.azw3: target/%.epub
 # Create the canvas and texts {{{2
 
 font=Linux-Libertine-O
+publisher_font=Helvetica
 background=black
 fill=white
 strokewidth=4
@@ -268,6 +269,17 @@ tmp/book_cover.author.jpg:
 		caption:$(book_author) \
 		$@
 
+tmp/book_cover.publisher.jpg:
+	convert \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(publisher_font) \
+		-pointsize 24 \
+		-gravity east \
+		-size 128x \
+		caption:$(publisher) \
+		$@
+
 # ------------------------------------------------
 # Create the cover image {{{2
 
@@ -276,11 +288,13 @@ target/$(book)_cover.jpg: \
 	tmp/book_cover.title.jpg \
 	tmp/book_cover.subtitle.jpg \
 	tmp/book_cover.author.jpg \
+	tmp/book_cover.publisher.jpg \
 	img/moravian_carst.jpg
 	composite -gravity north  -geometry +0+070 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
-	composite -gravity north  -geometry +0+250 tmp/book_cover.subtitle.jpg target/$(book)_cover.jpg $@
-	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg target/$(book)_cover.jpg $@
-	composite -gravity center -geometry +0+070 img/moravian_carst.jpg target/$(book)_cover.jpg $@
+	composite -gravity north  -geometry +0+250 tmp/book_cover.subtitle.jpg $@ $@
+	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg $@ $@
+	composite -gravity southeast -geometry +048+048 tmp/book_cover.publisher.jpg $@ $@
+	composite -gravity center -geometry +0+070 img/moravian_carst.jpg $@ $@
 
 # ------------------------------------------------
 # Convert the cover image to PDF {{{2
@@ -322,3 +336,5 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 # build only the thumb cover image. Add rule to build the recommended formats.
 # Build also AZW3, from EPUB. Replace DocBook extension ".xml" with ".dbk".
 # Improve the extensions to indicate the size of PDF. Update requirements.
+#
+# 2020-11-04: Add the publisher to the cover.
