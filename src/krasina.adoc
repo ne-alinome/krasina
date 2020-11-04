@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.8+20201104
+:revnumber: 0.2.0-dev.9+20201104
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -25,7 +25,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040028
+// Last modified 202011041429
 
 :dot: .
 
@@ -59,17 +59,17 @@ Changes in ti edition::
 
 {version-label_}:: {revnumber}.
 
-Programmas (omnis líber) usat por ti librification digital::
+Programmas principal usat por ti librification digital::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
 https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
-http://debian.org[Debian],
+http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://imagemagick.org[ImageMagick],
-https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://pandoc.org[Pandoc],
-http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]…
+http://www.vim.org[Vim]…
+in li sistema computatoral http://debian.org[Debian].
+Omni programmas usat es líber.
 
 Fotogramma del covriment:: Moravian Carst (ex
 https://czadventures.wordpress.com/top-10[Czech Adventures]).
