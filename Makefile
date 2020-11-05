@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051742
+# Last modified 202011051820
 # See change log at the end of the file
 
 # ==============================================================
@@ -100,8 +100,6 @@ thumb: target/$(book)_cover_thumb.jpg
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
-
-include Makefile.release
 
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
@@ -312,6 +310,13 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 
 %_cover_thumb.jpg: %_cover.jpg
 	convert $< -resize 190x $@
+
+# ==============================================================
+# Build the release archives {{{1
+
+version_file=src/$(book).adoc
+
+include Makefile.release
 
 # ==============================================================
 # Change log {{{1
