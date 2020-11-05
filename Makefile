@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011041840
+# Last modified 202011051742
 # See change log at the end of the file
 
 # ==============================================================
@@ -100,6 +100,8 @@ thumb: target/$(book)_cover_thumb.jpg
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
+
+include Makefile.release
 
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
@@ -338,3 +340,5 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 # Improve the extensions to indicate the size of PDF. Update requirements.
 #
 # 2020-11-04: Add the publisher to the cover. Fix the thumb cover rule.
+#
+# 2020-11-05: Include <Makefile.release>.
