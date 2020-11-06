@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.10+20201105
+:revnumber: 0.2.0-dev.11+20201105
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -9,6 +9,10 @@
 :toc-title: Contenete
 ifdef::backend-epub3[]
 :front-cover-image: ../target/krasina_cover.jpg
+endif::[]
+ifdef::backend-html5[]
+:toc:
+:toclevels: 3
 endif::[]
 ifdef::backend-pdf[]
 :toc:
@@ -25,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011051838
+// Last modified 202011070030
 
 :dot: .
 
