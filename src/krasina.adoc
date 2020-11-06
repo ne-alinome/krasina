@@ -1,10 +1,10 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.11+20201105
+:revnumber: 0.2.0-dev.12+20201107
 :doctype: book
 :lang: ie
 :docinfo: private
-:version-label_: Version de ti edition digital
+:version-label_: Version de ti-ci edition
 :version-label: {version-label_}:
 :toc-title: Contenete
 ifdef::backend-epub3[]
@@ -31,8 +31,6 @@ endif::[]
 //
 // Last modified 202011070030
 
-:dot: .
-
 [colophon]
 // Pri ti libre {{{1
 == Pri ti libre
@@ -52,11 +50,11 @@ Conversion a PDF:: Thomas Schmidt, 2013. Obtenibil in
 http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
-Marcos Cruz, 2019, 2020{dot} Obtenibil in pluri formates in
+Marcos Cruz, 2019, 2020. Obtenibil in pluri formates in
 http://ne.alinome.net[ne.alinome.net] e su
 http://github.com/ne-alinome[repositoria in GitHub].
 
-Changes in ti edition::
+Changes in ti-ci edition::
 - Omni erras trovat esset corectet.
 - Por facilisar li letion al nov aprensores del lingue:
 ** Omni accentus esset mettet.
