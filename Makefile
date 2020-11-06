@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011062127
+# Last modified 202011070022
 # See change log at the end of the file
 
 # ==============================================================
@@ -97,6 +97,9 @@ dbk: target/$(book).adoc.dbk
 .PHONY: cover
 cover: target/$(book)_cover.jpg
 
+.PHONY: html
+html: target/$(book).adoc.html
+
 .PHONY: thumb
 thumb: target/$(book)_cover_thumb.jpg
 
@@ -131,6 +134,12 @@ target/%.adoc.epub: src/%.adoc target/$(book)_cover.jpg
 
 target/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
+
+# ==============================================================
+# Convert Asciidoctor to HTML {{{1
+
+target/%.adoc.html: src/%.adoc
+	asciidoctor --backend=html5 --out-file=$@ $<
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -368,4 +377,5 @@ include Makefile.release
 # 2020-11-05: Include <Makefile.release>.
 #
 # 2020-11-06: Add rule to convert from DocBook to Pandoc's Markdown.
-
+#
+# 2020-11-07: Add rule to convert from Asciidoctor to HTML.
