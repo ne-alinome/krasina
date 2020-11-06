@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051820
+# Last modified 202011062127
 # See change log at the end of the file
 
 # ==============================================================
@@ -75,6 +75,9 @@ epubp: target/$(book).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book).adoc.dbk.xsltproc.epub
+
+.PHONY: md
+md: target/$(book).adoc.dbk.pandoc.md
 
 .PHONY: odt
 odt: target/$(book).adoc.dbk.pandoc.odt
@@ -206,6 +209,22 @@ target/$(book).adoc.dbk.pandoc.odt: \
 		--from docbook \
 		--to odt \
 		--template=src/pandoc_odt_template.txt \
+		--variable=lang:$(lang) \
+		--variable=autor:$(book_author) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ==============================================================
+# Convert DocBook to Pandoc's Markdown {{{1
+
+target/$(book).adoc.dbk.pandoc.md: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml
+	pandoc \
+		--from docbook \
+		--to markdown \
+		--standalone \
 		--variable=lang:$(lang) \
 		--variable=autor:$(book_author) \
 		--variable=publisher:$(publisher) \
@@ -347,3 +366,6 @@ include Makefile.release
 # 2020-11-04: Add the publisher to the cover. Fix the thumb cover rule.
 #
 # 2020-11-05: Include <Makefile.release>.
+#
+# 2020-11-06: Add rule to convert from DocBook to Pandoc's Markdown.
+
