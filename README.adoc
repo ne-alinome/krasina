@@ -1,6 +1,6 @@
 = Krasina
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-04
+:revdate: 2020-11-07
 :toc:
 :toc-title: Contenete/Content
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011040107
+// Last modified 202011070020
 
 // Interlingue {{{1
 == Interlingue
@@ -55,6 +55,7 @@ secun ti exemples:
 | make epubd | Constructer li EPUB per dbtoepub (sin covriment)
 | make epubp | Constructer li EPUB per Pandoc
 | make epubx | Constructer li EPUB per xsltproc (equivalent a dbtoepub)
+| make md    | Constructer li Markdown de Pandoc per ti-ci
 | make odt   | Constructer li OpenDocument (sin covriment)
 | make pdf   | Constructer li PDF (ambi grandores)
 | make pdfa4 | Constructer li *PDF de grandore DIN A4 (recomandat)*
@@ -135,6 +136,7 @@ follows:
 | make epubd | Build the EPUB with dbtoepub (no cover page)
 | make epubp | Build the EPUB with Pandoc
 | make epubx | Build the EPUB with xsltproc (equivalent to dbtoepub)
+| make md    | Build the Pandoc's Markdown by Pandoc
 | make odt   | Build the OpenDocument (no cover page)
 | make pdf   | Build the PDF (both sizes)
 | make pdfa4 | Build the *PDF (DIN A4 size) (recommended)*
