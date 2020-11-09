@@ -5,7 +5,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051811
+# Last modified 202011091739
 # See change log at the end of the file
 
 # ==============================================================
@@ -41,6 +41,7 @@ tmp/$(book)_$(release).tar.gz: $(prerequisites)
 		$(book)_$(release)/$@ \
 		--exclude="*.swp" \
 		--exclude=".gitignore" \
+		--exclude="*_cover.jpg" \
 		$(addprefix $(book)_$(release)/,$^) ; \
 	rm -f $(book)_$(release)
 
@@ -50,10 +51,12 @@ tmp/$(book)_$(release).zip:  $(prerequisites)
 	zip -9r \
 		$(book)_$(release)/$@ \
 		$(addprefix $(book)_$(release)/,$^) \
-		--exclude "*.gitignore" "*.swp" ; \
+		--exclude "*.gitignore" "*.swp" "*_cover.jpg" ; \
 	rm -f $(book)_$(release)
 
 # ==============================================================
 # Change log {{{1
 
 # 2020-11-05: Start.
+#
+# 2020-11-09: Exclude the cover image, but keep its thumb version.
