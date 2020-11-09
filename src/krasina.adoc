@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.14+20201109
+:revnumber: 0.2.0-dev.15+20201109
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011091544
+// Last modified 202011091646
 
 [colophon]
 // Pri ti libre {{{1
@@ -84,14 +84,16 @@ benevenit che http://ne.alinome.net[ne.alinome.net].
 <<<
 
 ****
-Li nómine «Occidental» del lingue international creat de Edgar de Wahl
-esset 1949 viceat oficialmen per li nómine «Interlingue», sin changear li
-lingue self, por evitar li politic aspecte del nómine del ancian organisation
-Occidental-Union (poy Interlingue-Union).
+
+Li nómine «Occidental» del lingue international creat in 1922 de Edgar de Wahl
+esset in 1949 viceat oficialmen per li nómine «Interlingue», sin changear li
+lingue self, por evitar li politic aspecte del nómine del organisation
+Occidental-Union.
 
 Actualmen ambi nómines es usat quam sinónimes. On usa anc combinationes quam
 «Interlingue (Occidental)», «Interlingue/Occidental» o
 «Occidental/Interlingue».
+
 ****
 
 // Anteparol {{{1
