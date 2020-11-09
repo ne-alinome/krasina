@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011070022
+# Last modified 202011091658
 # See change log at the end of the file
 
 # ==============================================================
@@ -109,6 +109,8 @@ clean:
 
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
+
+.SECONDARY: tmp/$(book)_cover.jpg.pdf
 
 target/%.adoc._a4.pdf: src/%.adoc tmp/$(book)_cover.jpg.pdf
 	asciidoctor-pdf \
@@ -379,3 +381,5 @@ include Makefile.release
 # 2020-11-06: Add rule to convert from DocBook to Pandoc's Markdown.
 #
 # 2020-11-07: Add rule to convert from Asciidoctor to HTML.
+#
+# 2020-11-09: Prevent the PDF cover from being built every time.
