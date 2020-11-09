@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0-dev.13+20201109
+:revnumber: 0.2.0-dev.14+20201109
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011082308
+// Last modified 202011091544
 
 [colophon]
 // Pri ti libre {{{1
@@ -147,7 +147,7 @@ desaparit, tam que il ja posset reflecter.
 U il es? Esque li misteriosi ente ne esset un chimere? O esque it esset
 solmen un strangi somnie? Ma no, il ya es invelopat in un pelisse quel ne
 apartene le e circum se il vide solmen roccas e súper se petrin vulte con milles
-de stalactitin formationes. Quam un fulmine aparit in su mente li rememore a
+de stalactitin formationes. Quam un fúlmine aparit in su mente li rememore a
 su braconal aventura e su cade…
 
 Yes, it es talmen, li erra es excludet. It trova se in li subterrania del
@@ -187,9 +187,9 @@ Ondra surtit ex li domette con li fusil celat sub li mantel.
 
 Pro cautie il braconat solmen in li forestes plu distant. Pos un hor de
 energic marcha il sedentat se sur li margine de un clariera e atendet con li
-fusil sur li genú, preparat a tirar. Ínterim li vente ha acrescet e li fulmines
-trasectet li obscur firmament. In li rebrillia de fulmine il perceptet un
-capreol current tra li clariera. Un fulmine exeat del fusil e li detonation
+fusil sur li genú, preparat a tirar. Ínterim li vente ha acrescet e li fúlmines
+trasectet li obscur firmament. In li rebrillia de fúlmine il perceptet un
+capreol current tra li clariera. Un fúlmine exeat del fusil e li detonation
 mixtet se con li tonnere. Ondra ha lansat se a su victime sur li clariera, ma
 in li sam témpore il audit un menaciant «Halt»!
 
@@ -455,7 +455,7 @@ quam petulant infantes, gaymen cantante.
 Quande ili ha arivat al camp, Krasina levat li manu quam signe que ella have
 alquó por dir al tribe. Poy ella stantat se sur li puntas del pedes e trivez
 besat Ondra quo il ha reciprocat. Li yunos quel in van solicitat li favore de
-Krasina, ha jettat li fulmines del ocules, ma submisset se al ancian more.
+Krasina, ha jettat li fúlmines del ocules, ma submisset se al ancian more.
 Krasina ha selectet su marito.
 
 Li old chef presentat a Ondra li manu e parlat long a su tribe. Ondra ha
