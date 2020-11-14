@@ -5,7 +5,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011091748
+# Last modified 202011141427
 # See change log at the end of the file
 
 # ==============================================================
@@ -18,12 +18,15 @@
 # version_file = path to the Asciidoctor file containing the `:revnumber:`
 # attribute with the version number of the book. Examples: "src/VERSION.adoc",
 # "src/my_book.adoc".
-
-branch=$(book)
+#
+# prerequisites = list of prerequisetes of the release archive rules, usually
+# just "*.adoc target/" to include de main documents and the target directory.
+#
+# branch = name of the directory containing the prerequisites (e.g. the
+# <target> directory); in Git repositories it's usually "$(book)"; in Fossil
+# repositories it's usually "branch".
 
 release=v$(shell grep ":revnumber:" $(version_file) | sed -e "s/:revnumber: \\+//" )
-
-prerequisites=*.adoc target/
 
 .PHONY: release
 release: tgz zip
@@ -61,3 +64,7 @@ tmp/$(book)_$(release).zip:  $(prerequisites)
 #
 # 2020-11-09: Exclude the cover image, but keep its thumb version. Add "v"
 # prefix to the release version.
+#
+# 2020-11-14: Improve: move the setting of the "branch" and "prerequisites"
+# variables to the main Makefile. This additional configuration makes the
+# building of release archives compatible with Fossil repositories.

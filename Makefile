@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011091658
+# Last modified 202011141424
 # See change log at the end of the file
 
 # ==============================================================
@@ -123,9 +123,6 @@ target/%.adoc._letter.pdf: src/%.adoc tmp/$(book)_cover.jpg.pdf
 
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
-
-# XXX REMARK -- Not used yet, because asciidoctor-epub3 needs the chapters to
-# be splitted in independent files, and included into the main source.
 
 target/%.adoc.epub: src/%.adoc target/$(book)_cover.jpg
 	asciidoctor-epub3 \
@@ -345,6 +342,8 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 # Build the release archives {{{1
 
 version_file=src/$(book).adoc
+branch=$(book)
+prerequisites=*.adoc target/
 
 include Makefile.release
 
@@ -383,3 +382,5 @@ include Makefile.release
 # 2020-11-07: Add rule to convert from Asciidoctor to HTML.
 #
 # 2020-11-09: Prevent the PDF cover from being built every time.
+#
+# 2020-11-14: Update to the new vesion of <Makefile.release>.
