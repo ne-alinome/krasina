@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011141424
+# Last modified 202011191638
 # See change log at the end of the file
 
 # ==============================================================
@@ -22,7 +22,7 @@
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
 
 # ebook-convert
-#   manual.calibre-ebook.com/generated/en/ebook-convert.html
+#   http://manual.calibre-ebook.com/generated/en/ebook-convert.html
 
 # ImageMagick (by ImageMagick Studio LCC)
 #   http://imagemagick.org
@@ -384,3 +384,5 @@ include Makefile.release
 # 2020-11-09: Prevent the PDF cover from being built every time.
 #
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
+#
+# 2020-11-19: Fix URL of ebook-convert.
