@@ -1,6 +1,6 @@
 = Krasina: Original raconta ex li subterrania de Moravian Carst
 :author: Jan A. Kajš
-:revnumber: 0.2.0+20201109
+:revnumber: 0.2.1-dev.0+202105010942CEST
 :doctype: book
 :lang: ie
 :docinfo: private
@@ -30,7 +30,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011091741
+// Last modified 202105010942+0200.
 
 [colophon]
 // Pri ti libre {{{1
@@ -51,7 +51,7 @@ Conversion a PDF:: Thomas Schmidt, 2013. Obtenibil in
 http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
-Marcos Cruz, 2019, 2020. Obtenibil in pluri formates in
+Marcos Cruz, 2019, 2020, 2021. Obtenibil in pluri formates in
 http://ne.alinome.net[ne.alinome.net] e su
 http://github.com/ne-alinome[repositoria in GitHub].
 
@@ -793,7 +793,7 @@ explorativ via.»
 
 Ti clamation avigilat Ondra de profund dormida pos li penosi e van vagada in
 li coridores. Il ha demettet li pellissin covritura de se e ha excurret del
-tenda por aprender quo ha accidet. In li camp eset un grand tumultu. Li féminas
+tenda por aprender quo ha accidet. In li camp esset un grand tumultu. Li féminas
 curret ci e ta, li infantes criat e li mannes colectet li necessi objectes. It
 aproxima se li aqua quel probabilmen va inundar li inferiori tuneles e
 grottes.
