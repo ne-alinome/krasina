@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011191638
+# Last modified 20210505T1933+0200
 # See change log at the end of the file
 
 # ==============================================================
@@ -339,6 +339,29 @@ tmp/%_cover.jpg.pdf: target/%_cover.jpg
 	convert $< -resize 190x $@
 
 # ==============================================================
+# Convert the README to HTML as online documentation {{{1
+
+.PHONY: wwwdoc
+wwwdoc: wwwreadme
+
+.PHONY: cleanwww
+cleanwww:
+	rm -f README.adoc.html
+
+.PHONY: wwwreadme
+wwwreadme: README.adoc.html
+
+README.adoc.html: tmp/README.html
+	echo "<div class='fossil-doc' data-title='README'>" > $@
+	cat $< >> $@
+	echo "</div>" >> $@
+
+tmp/README.html: README.adoc
+	asciidoctor \
+		--embedded \
+		--out-file=$@ $<
+
+# ==============================================================
 # Build the release archives {{{1
 
 version_file=src/$(book).adoc
@@ -386,3 +409,6 @@ include Makefile.release
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
 #
 # 2020-11-19: Fix URL of ebook-convert.
+#
+# 2021-05-05: Build the online documentation for the Fossil repository: an HTML
+# version of the README file.
